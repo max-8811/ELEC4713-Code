@@ -1,0 +1,383 @@
+{"squatType":"deep squat","maxDepthCm":48.2,"bottomBias":"balanced bias"}
+Issue paragraph:
+No non-bias issues were detected across the phases; posture and control remained consistent.
+
+{"squatType":"normal squat","maxDepthCm":35.5,"bottomBias":"hips dominated bias"}
+Issue paragraph:
+Legs too wide first appeared in Standing and persisted through Descending before being corrected by Bottom.
+
+{"squatType":"deep squat","maxDepthCm":42.1,"bottomBias":"knees dominated bias"}
+Issue paragraph:
+Trunk too forward first appeared in Descending and persisted through Bottom before being corrected by Ascending.
+
+{"squatType":"normal squat","maxDepthCm":31.8,"bottomBias":"balanced bias"}
+Issue paragraph:
+Arms not extended first appeared in Descending and persisted through Ascending.
+
+{"squatType":"deep squat","maxDepthCm":50.3,"bottomBias":"neutral bias"}
+Issue paragraph:
+Legs too narrow first appeared in Standing and persisted through Ascending. Trunk too upright first appeared in Bottom and was corrected by Ascending.
+
+{"squatType":"normal squat","maxDepthCm":38.9,"bottomBias":"hips dominated bias"}
+Issue paragraph:
+No non-bias issues were detected across the phases; posture and control remained consistent.
+
+{"squatType":"deep squat","maxDepthCm":45.0,"bottomBias":"balanced bias"}
+Issue paragraph:
+Left arm not extended first appeared in Descending and was corrected by Bottom.
+
+{"squatType":"normal squat","maxDepthCm":33.3,"bottomBias":"knees dominated bias"}
+Issue paragraph:
+Trunk too upright first appeared in Standing and persisted through Descending, was absent temporarily, and reappeared in Ascending.
+
+{"squatType":"deep squat","maxDepthCm":41.5,"bottomBias":"balanced bias"}
+Issue paragraph:
+Legs too wide first appeared in Standing and persisted through Bottom before being corrected by Ascending.
+
+{"squatType":"normal squat","maxDepthCm":36.2,"bottomBias":"hips dominated bias"}
+Issue paragraph:
+Arms too high first appeared in Descending and persisted through Ascending.
+
+{"squatType":"deep squat","maxDepthCm":44.8,"bottomBias":"balanced bias"}
+Issue paragraph:
+No non-bias issues were detected across the phases; posture and control remained consistent.
+
+{"squatType":"normal squat","maxDepthCm":39.1,"bottomBias":"neutral bias"}
+Issue paragraph:
+Legs too narrow first appeared in Standing and persisted through Ascending.
+
+{"squatType":"deep squat","maxDepthCm":47.6,"bottomBias":"knees dominated bias"}
+Issue paragraph:
+Trunk too forward first appeared in Bottom and persisted through Ascending.
+
+{"squatType":"normal squat","maxDepthCm":32.5,"bottomBias":"balanced bias"}
+Issue paragraph:
+Right arm too high first appeared in Descending and was corrected by Bottom.
+
+{"squatType":"deep squat","maxDepthCm":49.2,"bottomBias":"hips dominated bias"}
+Issue paragraph:
+Legs too wide first appeared in Standing and persisted through Descending. Arms not extended first appeared in Bottom and persisted through Ascending.
+
+{"squatType":"normal squat","maxDepthCm":37.4,"bottomBias":"balanced bias"}
+Issue paragraph:
+No non-bias issues were detected across the phases; posture and control remained consistent.
+
+{"squatType":"deep squat","maxDepthCm":43.7,"bottomBias":"balanced bias"}
+Issue paragraph:
+Trunk too upright first appeared in Descending and persisted through Bottom, was absent temporarily, and reappeared in Ascending.
+
+{"squatType":"normal squat","maxDepthCm":34.0,"bottomBias":"knees dominated bias"}
+Issue paragraph:
+Arms not extended first appeared in Standing and persisted through Ascending.
+
+{"squatType":"deep squat","maxDepthCm":46.3,"bottomBias":"neutral bias"}
+Issue paragraph:
+Legs too wide first appeared in Descending and was corrected by Bottom.
+
+{"squatType":"normal squat","maxDepthCm":30.5,"bottomBias":"hips dominated bias"}
+Issue paragraph:
+Trunk too forward first appeared in Standing and persisted through Bottom before being corrected by Ascending.
+
+{"squatType":"deep squat","maxDepthCm":51.1,"bottomBias":"balanced bias"}
+Issue paragraph:
+No non-bias issues were detected across the phases; posture and control remained consistent.
+
+{"squatType":"normal squat","maxDepthCm":38.2,"bottomBias":"balanced bias"}
+Issue paragraph:
+Legs too narrow first appeared in Standing and persisted through Descending before being corrected by Bottom.
+
+{"squatType":"deep squat","maxDepthCm":42.8,"bottomBias":"knees dominated bias"}
+Issue paragraph:
+Arms too high first appeared in Bottom and persisted through Ascending.
+
+{"squatType":"normal squat","maxDepthCm":35.1,"bottomBias":"hips dominated bias"}
+Issue paragraph:
+Trunk too upright first appeared in Descending and was corrected by Bottom.
+
+{"squatType":"deep squat","maxDepthCm":47.9,"bottomBias":"balanced bias"}
+Issue paragraph:
+Legs too wide first appeared in Standing and persisted through Ascending. Trunk too forward first appeared in Descending and persisted through Bottom.
+
+{"squatType":"normal squat","maxDepthCm":36.8,"bottomBias":"neutral bias"}
+Issue paragraph:
+No non-bias issues were detected across the phases; posture and control remained consistent.
+
+{"squatType":"deep squat","maxDepthCm":41.2,"bottomBias":"balanced bias"}
+Issue paragraph:
+Arms not extended first appeared in Standing, was absent temporarily, and reappeared in Bottom before being corrected by Ascending.
+
+{"squatType":"normal squat","maxDepthCm":32.1,"bottomBias":"knees dominated bias"}
+Issue paragraph:
+Legs too narrow first appeared in Descending and persisted through Ascending.
+
+{"squatType":"deep squat","maxDepthCm":45.5,"bottomBias":"hips dominated bias"}
+Issue paragraph:
+Trunk too forward first appeared in Standing and was corrected by Descending.
+
+{"squatType":"normal squat","maxDepthCm":39.8,"bottomBias":"balanced bias"}
+Issue paragraph:
+Right arm not extended first appeared in Bottom and persisted through Ascending.
+
+{"squatType":"deep squat","maxDepthCm":48.8,"bottomBias":"balanced bias"}
+Issue paragraph:
+No non-bias issues were detected across the phases; posture and control remained consistent.
+
+{"squatType":"normal squat","maxDepthCm":34.6,"bottomBias":"hips dominated bias"}
+Issue paragraph:
+Legs too wide first appeared in Standing and persisted through Ascending.
+
+{"squatType":"deep squat","maxDepthCm":43.2,"bottomBias":"knees dominated bias"}
+Issue paragraph:
+Trunk too upright first appeared in Descending and persisted through Bottom before being corrected by Ascending.
+
+{"squatType":"normal squat","maxDepthCm":37.9,"bottomBias":"neutral bias"}
+Issue paragraph:
+Arms not extended first appeared in Standing and was corrected by Descending.
+
+{"squatType":"deep squat","maxDepthCm":46.9,"bottomBias":"balanced bias"}
+Issue paragraph:
+Legs too narrow first appeared in Descending, was absent temporarily, and reappeared in Ascending.
+
+{"squatType":"normal squat","maxDepthCm":31.4,"bottomBias":"balanced bias"}
+Issue paragraph:
+No non-bias issues were detected across the phases; posture and control remained consistent.
+
+{"squatType":"deep squat","maxDepthCm":49.9,"bottomBias":"hips dominated bias"}
+Issue paragraph:
+Trunk too forward first appeared in Standing and persisted through Ascending.
+
+{"squatType":"normal squat","maxDepthCm":38.5,"bottomBias":"knees dominated bias"}
+Issue paragraph:
+Arms too high first appeared in Bottom and was corrected by Ascending.
+
+{"squatType":"deep squat","maxDepthCm":44.1,"bottomBias":"balanced bias"}
+Issue paragraph:
+Legs too wide first appeared in Standing and persisted through Descending. Trunk too upright first appeared in Ascending and persisted through Ascending.
+
+{"squatType":"normal squat","maxDepthCm":33.7,"bottomBias":"balanced bias"}
+Issue paragraph:
+Left arm too high first appeared in Descending and persisted through Ascending.
+
+{"squatType":"deep squat","maxDepthCm":47.2,"bottomBias":"neutral bias"}
+Issue paragraph:
+No non-bias issues were detected across the phases; posture and control remained consistent.
+
+{"squatType":"normal squat","maxDepthCm":35.8,"bottomBias":"hips dominated bias"}
+Issue paragraph:
+Legs too narrow first appeared in Standing and persisted through Bottom before being corrected by Ascending.
+
+{"squatType":"deep squat","maxDepthCm":42.5,"bottomBias":"balanced bias"}
+Issue paragraph:
+Trunk too forward first appeared in Descending and was corrected by Bottom.
+
+{"squatType":"normal squat","maxDepthCm":30.9,"bottomBias":"knees dominated bias"}
+Issue paragraph:
+Arms not extended first appeared in Standing, was absent temporarily, and reappeared in Ascending.
+
+{"squatType":"deep squat","maxDepthCm":50.8,"bottomBias":"balanced bias"}
+Issue paragraph:
+Legs too wide first appeared in Descending and persisted through Ascending.
+
+{"squatType":"normal squat","maxDepthCm":39.4,"bottomBias":"hips dominated bias"}
+Issue paragraph:
+No non-bias issues were detected across the phases; posture and control remained consistent.
+
+{"squatType":"deep squat","maxDepthCm":46.1,"bottomBias":"neutral bias"}
+Issue paragraph:
+Trunk too upright first appeared in Bottom and persisted through Ascending.
+
+{"squatType":"normal squat","maxDepthCm":36.5,"bottomBias":"balanced bias"}
+Issue paragraph:
+Arms too high first appeared in Standing and persisted through Descending before being corrected by Bottom.
+
+{"squatType":"deep squat","maxDepthCm":48.3,"bottomBias":"knees dominated bias"}
+Issue paragraph:
+Legs too narrow first appeared in Standing and persisted through Descending. Trunk too forward first appeared in Bottom and persisted through Ascending.
+
+{"squatType":"normal squat","maxDepthCm":33.0,"bottomBias":"balanced bias"}
+Issue paragraph:
+Right arm not extended first appeared in Descending and was corrected by Bottom.
+
+{"squatType":"deep squat","maxDepthCm":45.2,"bottomBias":"hips dominated bias"}
+Issue paragraph:
+No non-bias issues were detected across the phases; posture and control remained consistent.
+
+{"squatType":"normal squat","maxDepthCm":38.8,"bottomBias":"balanced bias"}
+Issue paragraph:
+Legs too wide first appeared in Descending, was absent temporarily, and reappeared in Ascending.
+
+{"squatType":"deep squat","maxDepthCm":41.9,"bottomBias":"balanced bias"}
+Issue paragraph:
+Trunk too forward first appeared in Standing and persisted through Bottom before being corrected by Ascending.
+
+{"squatType":"normal squat","maxDepthCm":32.8,"bottomBias":"knees dominated bias"}
+Issue paragraph:
+Arms not extended first appeared in Descending and persisted through Ascending.
+
+{"squatType":"deep squat","maxDepthCm":49.5,"bottomBias":"neutral bias"}
+Issue paragraph:
+Legs too narrow first appeared in Bottom and was corrected by Ascending.
+
+{"squatType":"normal squat","maxDepthCm":37.1,"bottomBias":"hips dominated bias"}
+Issue paragraph:
+Trunk too upright first appeared in Standing and persisted through Ascending.
+
+{"squatType":"deep squat","maxDepthCm":44.5,"bottomBias":"balanced bias"}
+Issue paragraph:
+No non-bias issues were detected across the phases; posture and control remained consistent.
+
+{"squatType":"normal squat","maxDepthCm":31.2,"bottomBias":"balanced bias"}
+Issue paragraph:
+Legs too wide first appeared in Standing and persisted through Descending before being corrected by Bottom.
+
+{"squatType":"deep squat","maxDepthCm":47.0,"bottomBias":"knees dominated bias"}
+Issue paragraph:
+Arms too high first appeared in Descending and persisted through Bottom, was absent temporarily, and reappeared in Ascending.
+
+{"squatType":"normal squat","maxDepthCm":34.8,"bottomBias":"hips dominated bias"}
+Issue paragraph:
+Trunk too forward first appeared in Bottom and persisted through Ascending.
+
+{"squatType":"deep squat","maxDepthCm":50.1,"bottomBias":"balanced bias"}
+Issue paragraph:
+Legs too narrow first appeared in Standing and persisted through Ascending. Arms not extended first appeared in Descending and was corrected by Bottom.
+
+{"squatType":"normal squat","maxDepthCm":39.9,"bottomBias":"neutral bias"}
+Issue paragraph:
+No non-bias issues were detected across the phases; posture and control remained consistent.
+
+{"squatType":"deep squat","maxDepthCm":43.5,"bottomBias":"balanced bias"}
+Issue paragraph:
+Trunk too upright first appeared in Standing and was corrected by Descending.
+
+{"squatType":"normal squat","maxDepthCm":36.1,"bottomBias":"knees dominated bias"}
+Issue paragraph:
+Left arm not extended first appeared in Descending and persisted through Ascending.
+
+{"squatType":"deep squat","maxDepthCm":46.7,"bottomBias":"hips dominated bias"}
+Issue paragraph:
+Legs too wide first appeared in Bottom and persisted through Ascending.
+
+{"squatType":"normal squat","maxDepthCm":32.2,"bottomBias":"balanced bias"}
+Issue paragraph:
+Trunk too forward first appeared in Standing and persisted through Descending, was absent temporarily, and reappeared in Ascending.
+
+{"squatType":"deep squat","maxDepthCm":48.5,"bottomBias":"balanced bias"}
+Issue paragraph:
+No non-bias issues were detected across the phases; posture and control remained consistent.
+
+{"squatType":"normal squat","maxDepthCm":37.7,"bottomBias":"hips dominated bias"}
+Issue paragraph:
+Arms not extended first appeared in Standing and persisted through Ascending.
+
+{"squatType":"deep squat","maxDepthCm":42.2,"bottomBias":"knees dominated bias"}
+Issue paragraph:
+Legs too narrow first appeared in Descending and was corrected by Bottom.
+
+{"squatType":"normal squat","maxDepthCm":35.3,"bottomBias":"neutral bias"}
+Issue paragraph:
+Trunk too upright first appeared in Standing and persisted through Bottom before being corrected by Ascending.
+
+{"squatType":"deep squat","maxDepthCm":49.1,"bottomBias":"balanced bias"}
+Issue paragraph:
+Arms too high first appeared in Bottom, was absent temporarily, and reappeared in Ascending.
+
+{"squatType":"normal squat","maxDepthCm":34.3,"bottomBias":"balanced bias"}
+Issue paragraph:
+No non-bias issues were detected across the phases; posture and control remained consistent.
+
+{"squatType":"deep squat","maxDepthCm":45.8,"bottomBias":"hips dominated bias"}
+Issue paragraph:
+Legs too wide first appeared in Standing and persisted through Ascending.
+
+{"squatType":"normal squat","maxDepthCm":38.1,"bottomBias":"knees dominated bias"}
+Issue paragraph:
+Trunk too forward first appeared in Descending and persisted through Ascending.
+
+{"squatType":"deep squat","maxDepthCm":44.3,"bottomBias":"balanced bias"}
+Issue paragraph:
+Right arm too high first appeared in Standing and was corrected by Descending.
+
+{"squatType":"normal squat","maxDepthCm":31.7,"bottomBias":"hips dominated bias"}
+Issue paragraph:
+Legs too narrow first appeared in Descending and persisted through Bottom. Arms not extended first appeared in Ascending and persisted through Ascending.
+
+{"squatType":"deep squat","maxDepthCm":47.8,"bottomBias":"neutral bias"}
+Issue paragraph:
+No non-bias issues were detected across the phases; posture and control remained consistent.
+
+{"squatType":"normal squat","maxDepthCm":36.6,"bottomBias":"balanced bias"}
+Issue paragraph:
+Trunk too upright first appeared in Standing and persisted through Descending before being corrected by Bottom.
+
+{"squatType":"deep squat","maxDepthCm":41.6,"bottomBias":"knees dominated bias"}
+Issue paragraph:
+Arms not extended first appeared in Descending, was absent temporarily, and reappeared in Ascending.
+
+{"squatType":"normal squat","maxDepthCm":33.5,"bottomBias":"balanced bias"}
+Issue paragraph:
+Legs too wide first appeared in Bottom and persisted through Ascending.
+
+{"squatType":"deep squat","maxDepthCm":48.1,"bottomBias":"hips dominated bias"}
+Issue paragraph:
+Trunk too forward first appeared in Standing and was corrected by Descending.
+
+{"squatType":"normal squat","maxDepthCm":39.6,"bottomBias":"balanced bias"}
+Issue paragraph:
+No non-bias issues were detected across the phases; posture and control remained consistent.
+
+{"squatType":"deep squat","maxDepthCm":43.9,"bottomBias":"neutral bias"}
+Issue paragraph:
+Left arm not extended first appeared in Standing and persisted through Ascending.
+
+{"squatType":"normal squat","maxDepthCm":30.7,"bottomBias":"knees dominated bias"}
+Issue paragraph:
+Legs too narrow first appeared in Descending and persisted through Bottom before being corrected by Ascending.
+
+{"squatType":"deep squat","maxDepthCm":49.7,"bottomBias":"balanced bias"}
+Issue paragraph:
+Trunk too upright first appeared in Standing, was absent temporarily, and reappeared in Bottom before being corrected by Ascending.
+
+{"squatType":"normal squat","maxDepthCm":37.2,"bottomBias":"hips dominated bias"}
+Issue paragraph:
+Arms too high first appeared in Descending and persisted through Ascending.
+
+{"squatType":"deep squat","maxDepthCm":46.5,"bottomBias":"balanced bias"}
+Issue paragraph:
+No non-bias issues were detected across the phases; posture and control remained consistent.
+
+{"squatType":"normal squat","maxDepthCm":34.9,"bottomBias":"balanced bias"}
+Issue paragraph:
+Legs too wide first appeared in Standing and was corrected by Descending.
+
+{"squatType":"deep squat","maxDepthCm":42.9,"bottomBias":"knees dominated bias"}
+Issue paragraph:
+Trunk too forward first appeared in Bottom and persisted through Ascending.
+
+{"squatType":"normal squat","maxDepthCm":38.3,"bottomBias":"hips dominated bias"}
+Issue paragraph:
+Right arm not extended first appeared in Descending and persisted through Bottom. Trunk too upright first appeared in Ascending and persisted through Ascending.
+
+{"squatType":"deep squat","maxDepthCm":50.5,"bottomBias":"neutral bias"}
+Issue paragraph:
+Legs too narrow first appeared in Standing and persisted through Ascending.
+
+{"squatType":"normal squat","maxDepthCm":35.7,"bottomBias":"balanced bias"}
+Issue paragraph:
+No non-bias issues were detected across the phases; posture and control remained consistent.
+
+{"squatType":"deep squat","maxDepthCm":44.7,"bottomBias":"hips dominated bias"}
+Issue paragraph:
+Arms not extended first appeared in Descending and was corrected by Bottom.
+
+{"squatType":"normal squat","maxDepthCm":32.0,"bottomBias":"knees dominated bias"}
+Issue paragraph:
+Trunk too forward first appeared in Standing and persisted through Descending, was absent temporarily, and reappeared in Ascending.
+
+{"squatType":"deep squat","maxDepthCm":48.9,"bottomBias":"balanced bias"}
+Issue paragraph:
+Legs too wide first appeared in Descending and persisted through Ascending.
+
+{"squatType":"normal squat","maxDepthCm":39.2,"bottomBias":"balanced bias"}
+Issue paragraph:
+Trunk too upright first appeared in Standing and was corrected by Descending.

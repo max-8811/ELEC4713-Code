@@ -1,0 +1,221 @@
+c:\users\maxso\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+c:\users\maxso\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+c:\users\maxso\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+c:\users\maxso\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+c:\users\maxso\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+c:\users\maxso\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+c:\users\maxso\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+c:\users\maxso\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+c:\users\maxso\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+c:\users\maxso\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+c:\users\maxso\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+c:\users\maxso\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Kinect.dll
+c:\users\maxso\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Kinect.xml
+c:\users\maxso\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+c:\users\maxso\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\maxso\Desktop\FYP\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\maxso\Desktop\FYP\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\maxso\Desktop\FYP\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\maxso\Desktop\FYP\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\maxso\Desktop\FYP\WpfApplication1\obj\Debug\Views\MenuPage.baml
+C:\Users\maxso\Desktop\FYP\WpfApplication1\obj\Debug\Views\PushUpPage.baml
+C:\Users\maxso\Desktop\FYP\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\maxso\Desktop\FYP\WpfApplication1\obj\Debug\Views\MenuPage.g.cs
+C:\Users\maxso\Desktop\FYP\WpfApplication1\obj\Debug\Views\PushUpPage.g.cs
+C:\Users\maxso\Desktop\FYP\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\maxso\Desktop\FYP\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\maxso\Desktop\FYP\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\maxso\Desktop\FYP\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\maxso\Desktop\FYP\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\maxso\Desktop\FYP\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\maxso\Desktop\FYP\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\maxso\Desktop\FYP\WpfApplication1\bin\Debug\Microsoft.Kinect.dll
+C:\Users\maxso\Desktop\FYP\WpfApplication1\bin\Debug\Microsoft.Kinect.xml
+C:\Users\maxso\Desktop\FYP\WpfApplication1\obj\Debug\Views\SquatPage.baml
+C:\Users\maxso\Desktop\FYP\WpfApplication1\obj\Debug\Views\SquatPage.g.cs
+C:\Users\maxso\Desktop\FYP\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\maxso\Desktop\FYP NEW (sem2)\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\maxso\Desktop\FYP NEW (sem2)\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\maxso\Desktop\FYP NEW (sem2)\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\maxso\Desktop\FYP NEW (sem2)\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\maxso\Desktop\FYP NEW (sem2)\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\maxso\Desktop\FYP NEW (sem2)\WpfApplication1\bin\Debug\Microsoft.Kinect.dll
+C:\Users\maxso\Desktop\FYP NEW (sem2)\WpfApplication1\bin\Debug\Microsoft.Kinect.xml
+C:\Users\maxso\Desktop\FYP NEW (sem2)\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\maxso\Desktop\FYP NEW (sem2)\WpfApplication1\obj\Debug\Views\MenuPage.baml
+C:\Users\maxso\Desktop\FYP NEW (sem2)\WpfApplication1\obj\Debug\Views\PushUpPage.baml
+C:\Users\maxso\Desktop\FYP NEW (sem2)\WpfApplication1\obj\Debug\Views\SquatPage.baml
+C:\Users\maxso\Desktop\FYP NEW (sem2)\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\maxso\Desktop\FYP NEW (sem2)\WpfApplication1\obj\Debug\Views\MenuPage.g.cs
+C:\Users\maxso\Desktop\FYP NEW (sem2)\WpfApplication1\obj\Debug\Views\PushUpPage.g.cs
+C:\Users\maxso\Desktop\FYP NEW (sem2)\WpfApplication1\obj\Debug\Views\SquatPage.g.cs
+C:\Users\maxso\Desktop\FYP NEW (sem2)\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\maxso\Desktop\FYP NEW (sem2)\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\maxso\Desktop\FYP NEW (sem2)\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\maxso\Desktop\FYP NEW (sem2)\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\maxso\Desktop\FYP NEW (sem2)\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\maxso\Desktop\FYP NEW (sem2)\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Copy\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Copy\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Copy\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Copy\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Copy\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Copy\WpfApplication1\bin\Debug\Microsoft.Kinect.dll
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Copy\WpfApplication1\bin\Debug\Microsoft.Kinect.xml
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Copy\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Copy\WpfApplication1\obj\Debug\Views\MenuPage.baml
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Copy\WpfApplication1\obj\Debug\Views\PushUpPage.baml
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Copy\WpfApplication1\obj\Debug\Views\SquatPage.baml
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Copy\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Copy\WpfApplication1\obj\Debug\Views\MenuPage.g.cs
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Copy\WpfApplication1\obj\Debug\Views\PushUpPage.g.cs
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Copy\WpfApplication1\obj\Debug\Views\SquatPage.g.cs
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Copy\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Copy\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Copy\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Copy\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Copy\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\maxso\Desktop\FYP NEW (sem2) - To do copy\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\maxso\Desktop\FYP NEW (sem2) - To do copy\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\maxso\Desktop\FYP NEW (sem2) - To do copy\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\maxso\Desktop\FYP NEW (sem2) - To do copy\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\maxso\Desktop\FYP NEW (sem2) - To do copy\WpfApplication1\obj\Debug\Views\MenuPage.baml
+C:\Users\maxso\Desktop\FYP NEW (sem2) - To do copy\WpfApplication1\obj\Debug\Views\PushUpPage.baml
+C:\Users\maxso\Desktop\FYP NEW (sem2) - To do copy\WpfApplication1\obj\Debug\Views\SquatPage.baml
+C:\Users\maxso\Desktop\FYP NEW (sem2) - To do copy\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\maxso\Desktop\FYP NEW (sem2) - To do copy\WpfApplication1\obj\Debug\Views\MenuPage.g.cs
+C:\Users\maxso\Desktop\FYP NEW (sem2) - To do copy\WpfApplication1\obj\Debug\Views\PushUpPage.g.cs
+C:\Users\maxso\Desktop\FYP NEW (sem2) - To do copy\WpfApplication1\obj\Debug\Views\SquatPage.g.cs
+C:\Users\maxso\Desktop\FYP NEW (sem2) - To do copy\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\maxso\Desktop\FYP NEW (sem2) - To do copy\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\maxso\Desktop\FYP NEW (sem2) - To do copy\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\maxso\Desktop\FYP NEW (sem2) - To do copy\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\maxso\Desktop\FYP NEW (sem2) - To do copy\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\maxso\Desktop\FYP NEW (sem2) - To do copy\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\maxso\Desktop\FYP NEW (sem2) - To do copy\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\maxso\Desktop\FYP NEW (sem2) - To do copy\WpfApplication1\bin\Debug\Microsoft.Kinect.dll
+C:\Users\maxso\Desktop\FYP NEW (sem2) - To do copy\WpfApplication1\bin\Debug\Microsoft.Kinect.xml
+C:\Users\maxso\Desktop\FYP NEW (sem2) - To do copy\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\maxso\Desktop\FYP NEW (sem2) - To do copy - Copy\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\maxso\Desktop\FYP NEW (sem2) - To do copy - Copy\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\maxso\Desktop\FYP NEW (sem2) - To do copy - Copy\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\maxso\Desktop\FYP NEW (sem2) - To do copy - Copy\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\maxso\Desktop\FYP NEW (sem2) - To do copy - Copy\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\maxso\Desktop\FYP NEW (sem2) - To do copy - Copy\WpfApplication1\bin\Debug\Microsoft.Kinect.dll
+C:\Users\maxso\Desktop\FYP NEW (sem2) - To do copy - Copy\WpfApplication1\bin\Debug\Microsoft.Kinect.xml
+C:\Users\maxso\Desktop\FYP NEW (sem2) - To do copy - Copy\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\maxso\Desktop\FYP NEW (sem2) - To do copy - Copy\WpfApplication1\obj\Debug\Views\MenuPage.baml
+C:\Users\maxso\Desktop\FYP NEW (sem2) - To do copy - Copy\WpfApplication1\obj\Debug\Views\PushUpPage.baml
+C:\Users\maxso\Desktop\FYP NEW (sem2) - To do copy - Copy\WpfApplication1\obj\Debug\Views\SquatPage.baml
+C:\Users\maxso\Desktop\FYP NEW (sem2) - To do copy - Copy\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\maxso\Desktop\FYP NEW (sem2) - To do copy - Copy\WpfApplication1\obj\Debug\Views\MenuPage.g.cs
+C:\Users\maxso\Desktop\FYP NEW (sem2) - To do copy - Copy\WpfApplication1\obj\Debug\Views\PushUpPage.g.cs
+C:\Users\maxso\Desktop\FYP NEW (sem2) - To do copy - Copy\WpfApplication1\obj\Debug\Views\SquatPage.g.cs
+C:\Users\maxso\Desktop\FYP NEW (sem2) - To do copy - Copy\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\maxso\Desktop\FYP NEW (sem2) - To do copy - Copy\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\maxso\Desktop\FYP NEW (sem2) - To do copy - Copy\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\maxso\Desktop\FYP NEW (sem2) - To do copy - Copy\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\maxso\Desktop\FYP NEW (sem2) - To do copy - Copy\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\maxso\Desktop\FYP NEW (sem2) - To do copy - Copy\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - Copy\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - Copy\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - Copy\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - Copy\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - Copy\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - Copy\WpfApplication1\bin\Debug\Microsoft.Kinect.dll
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - Copy\WpfApplication1\bin\Debug\Microsoft.Kinect.xml
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - Copy\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - Copy\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - Copy\WpfApplication1\obj\Debug\Views\MenuPage.baml
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - Copy\WpfApplication1\obj\Debug\Views\PushUpPage.baml
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - Copy\WpfApplication1\obj\Debug\Views\SquatPage.baml
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - Copy\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - Copy\WpfApplication1\obj\Debug\Views\MenuPage.g.cs
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - Copy\WpfApplication1\obj\Debug\Views\PushUpPage.g.cs
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - Copy\WpfApplication1\obj\Debug\Views\SquatPage.g.cs
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - Copy\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - Copy\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - Copy\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - Copy\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - Copy\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest(testing)\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest(testing)\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest(testing)\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest(testing)\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest(testing)\WpfApplication1\obj\Debug\Views\MenuPage.baml
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest(testing)\WpfApplication1\obj\Debug\Views\SquatPage.baml
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest(testing)\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest(testing)\WpfApplication1\obj\Debug\Views\MenuPage.g.cs
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest(testing)\WpfApplication1\obj\Debug\Views\SquatPage.g.cs
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest(testing)\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest(testing)\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest(testing)\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest(testing)\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest(testing)\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest(testing)\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest(testing)\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest(testing)\WpfApplication1\bin\Debug\Microsoft.Kinect.dll
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest(testing)\WpfApplication1\bin\Debug\Microsoft.Kinect.xml
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest(testing)\WpfApplication1\obj\Debug\Views\PushUpPage.baml
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest(testing)\WpfApplication1\obj\Debug\Views\PushUpPage.g.cs
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest\WpfApplication1\bin\Debug\Microsoft.Kinect.dll
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest\WpfApplication1\bin\Debug\Microsoft.Kinect.xml
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest\WpfApplication1\obj\Debug\Views\PushUpPage.baml
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest\WpfApplication1\obj\Debug\Views\MenuPage.baml
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest\WpfApplication1\obj\Debug\Views\SquatPage.baml
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest\WpfApplication1\obj\Debug\Views\PushUpPage.g.cs
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest\WpfApplication1\obj\Debug\Views\MenuPage.g.cs
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest\WpfApplication1\obj\Debug\Views\SquatPage.g.cs
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - Sum\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - Sum\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - Sum\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - Sum\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - Sum\WpfApplication1\obj\Debug\Views\PushUpPage.baml
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - Sum\WpfApplication1\obj\Debug\Views\MenuPage.baml
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - Sum\WpfApplication1\obj\Debug\Views\SquatPage.baml
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - Sum\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - Sum\WpfApplication1\obj\Debug\Views\PushUpPage.g.cs
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - Sum\WpfApplication1\obj\Debug\Views\MenuPage.g.cs
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - Sum\WpfApplication1\obj\Debug\Views\SquatPage.g.cs
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - Sum\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - Sum\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - Sum\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - Sum\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - Sum\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - Sum\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - Sum\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - Sum\WpfApplication1\bin\Debug\Microsoft.Kinect.dll
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - Sum\WpfApplication1\bin\Debug\Microsoft.Kinect.xml
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - SumP-Gemini\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - SumP-Gemini\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - SumP-Gemini\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - SumP-Gemini\WpfApplication1\bin\Debug\Microsoft.Kinect.dll
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - SumP-Gemini\WpfApplication1\bin\Debug\Microsoft.Kinect.xml
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - SumP-Gemini\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - SumP-Gemini\WpfApplication1\obj\Debug\Views\PushUpPage.baml
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - SumP-Gemini\WpfApplication1\obj\Debug\Views\MenuPage.baml
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - SumP-Gemini\WpfApplication1\obj\Debug\Views\SquatPage.baml
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - SumP-Gemini\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - SumP-Gemini\WpfApplication1\obj\Debug\Views\PushUpPage.g.cs
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - SumP-Gemini\WpfApplication1\obj\Debug\Views\MenuPage.g.cs
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - SumP-Gemini\WpfApplication1\obj\Debug\Views\SquatPage.g.cs
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - SumP-Gemini\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - SumP-Gemini\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - SumP-Gemini\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - SumP-Gemini\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - SumP-Gemini\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - SumP-Gemini\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - SumP-Gemini\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\maxso\Desktop\FYP NEW (sem2) - Newest - SumP-Gemini\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache

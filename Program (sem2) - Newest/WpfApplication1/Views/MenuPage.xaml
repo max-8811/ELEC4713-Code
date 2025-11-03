@@ -1,0 +1,34 @@
+﻿<Page x:Class="WpfApplication1.Views.MenuPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="Menu">
+
+    <Grid>
+        <StackPanel Margin="16" VerticalAlignment="Top">
+            <TextBlock Text="Select Exercise:" Margin="0,0,0,2"/>
+            <ComboBox x:Name="GestureCombo" Width="200" Margin="0,0,0,16" SelectedIndex="2">
+                <ComboBoxItem Content="Push-up"/>
+                <ComboBoxItem Content="Sit-up" IsEnabled="False"/>
+                <ComboBoxItem Content="Squat"/>
+            </ComboBox>
+
+            <TextBlock Text="Select Coach Personality:" Margin="0,0,0,2"/>
+            <ComboBox x:Name="CoachPersonalityCombo" Width="200" Margin="0,0,0,16" SelectionChanged="CoachPersonalityCombo_SelectionChanged">
+                <ComboBoxItem Content="Default"/>
+                <ComboBoxItem Content="Friendly"/>
+                <ComboBoxItem Content="Strict"/>
+            </ComboBox>
+
+            <!-- ADD THIS NEW LABEL AND COMBO BOX -->
+            <TextBlock Text="Select Language:" Margin="0,0,0,2"/>
+            <ComboBox x:Name="LanguageCombo" Width="200" Margin="0,0,0,16" SelectionChanged="LanguageCombo_SelectionChanged">
+                <ComboBoxItem Content="English"/>
+                <ComboBoxItem Content="Chinese"/>
+                <ComboBoxItem Content="Spanish"/>
+            </ComboBox>
+
+            <Button Content="Start" Width="120" Click="Start_Click" Margin="0,0,0,8"/>
+            <Button Content="Test Ollama Model" Width="120" Click="TestModel_Click"/>
+        </StackPanel>
+    </Grid>
+</Page>

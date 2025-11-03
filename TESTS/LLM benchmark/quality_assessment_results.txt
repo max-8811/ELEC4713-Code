@@ -1,0 +1,3970 @@
+--- LLM Quality Assessment Results ---
+
+=========================================
+Model: Qwen-1.5B
+=========================================
+
+Average Quality Score: 3.21 / 5.00
+
+--- Pass Rate per Criterion ---
+- sentence_1_correct: 66.3%
+- sentence_count_ok: 65.3%
+- has_end_token: 0.0%
+- no_prescriptive_lang: 100.0%
+- is_factually_consistent: 89.5%
+
+--- Detailed Breakdown ---
+
+--- Prompt #2 ---
+Score: 4/5
+Reply: The normal squat with hips-dominated bias shows that the legs were too wide initially, which persisted until it was corrected at the bottom of the movement. This indicates a need for improved control and alignment during the entire range of motion.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #3 ---
+Score: 3/5
+Reply: The deep squat with knees-dominated bias exhibited a trunk that was excessively forward during the descending phase, which continued into the bottom position and was subsequently improved upon as it moved upward.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #4 ---
+Score: 4/5
+Reply: The normal squat with balanced bias shows that the arms were not fully extended at the start of descending, which continued into the ascending phase. This indicates a lack of proper technique from the bottom up.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #5 ---
+Score: 4/5
+Reply: Deep squat with neutral bias. Legs were consistently too narrow throughout the movement, persisting from the standing phase to the bottom position. The trunk remained too upright until it improved during the ascending portion of the lift.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #6 ---
+Score: 2/5
+Reply: The normal squat with a hips-dominated bias shows consistent technique throughout all phases, maintaining proper posture and control without any significant deviations from the standard movement pattern.
+Checks:
+  - sentence_1_correct: FAIL
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #7 ---
+Score: 3/5
+Reply: Deep squat with balanced bias. Left arm did not extend consistently, initially appearing during the Descending phase but improved as technique progressed to the Bottom position.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #8 ---
+Score: 3/5
+Reply: The normal squat with a knees-dominated bias exhibited an excessively upright trunk during the standing phase, which remained until the descending phase before disappearing briefly but resurfacing in the ascending phase. This suggests a need for improved core engagement to maintain proper posture throughout the entire movement.
+Checks:
+  - sentence_1_correct: FAIL
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #9 ---
+Score: 2/5
+Reply: The subject's deep squat had a balanced bias, with legs too wide appearing initially during the standing phase and persisting until the bottom position but was eventually corrected as they ascended.
+Checks:
+  - sentence_1_correct: FAIL
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #10 ---
+Score: 4/5
+Reply: The normal squat with hips-dominated bias shows that arms were positioned above the barbell during both descending and ascending phases, indicating an issue with proper upper body positioning. This problem persists throughout the entire movement, suggesting a need for consistent technique improvement to ensure correct alignment from start to finish.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #11 ---
+Score: 3/5
+Reply: The deep squat with balanced bias shows consistent technique throughout all phases, maintaining a neutral position without any deviations from the standard form.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #12 ---
+Score: 4/5
+Reply: Normal squat with neutral bias. Legs were consistently too narrow throughout the entire movement, persisting from the starting position to the top of the lift.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #13 ---
+Score: 3/5
+Reply: The subject's trunk was excessively forward at the bottom of the movement, which continued into the ascent phase. This issue indicates poor core control and a lack of proper pelvic tilt. Trunk positioning directly affects the depth and range of motion during squats.
+Checks:
+  - sentence_1_correct: FAIL
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #14 ---
+Score: 2/5
+Reply: The right arm remained elevated during the descending phase, which was addressed by focusing on the bottom position. This issue persisted throughout the entire movement.
+Checks:
+  - sentence_1_correct: FAIL
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #15 ---
+Score: 4/5
+Reply: The deep squat with hips-dominated bias shows that the legs were too wide at the start, which remained consistent throughout the movement. The arms did not extend properly from the bottom phase until the top of the descent. This indicates a need for improved technique to ensure proper alignment and weight distribution during the entire lift.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #16 ---
+Score: 3/5
+Reply: The normal squat with balanced bias shows consistent technique throughout all phases, maintaining a neutral position without any deviations from the standard form.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #17 ---
+Score: 3/5
+Reply: The subject's deep squat with balanced bias exhibited a trunk that became too upright during the descending phase but disappeared briefly before resurfacing in the ascending phase. This suggests an inconsistent technique across different phases of the movement.
+Checks:
+  - sentence_1_correct: FAIL
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #18 ---
+Score: 3/5
+Reply: The arms were not fully extended initially, which remained consistent throughout the movement. This issue persisted from the starting position to the top of the squat.
+Checks:
+  - sentence_1_correct: FAIL
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #19 ---
+Score: 3/5
+Reply: Deep squat with neutral bias. Legs too wide initially emerged during the descending phase but was addressed at the bottom of the movement.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #20 ---
+Score: 2/5
+Reply: The subject's normal squat with a hips-dominated bias exhibited excessive trunk forward tilt initially during the standing phase, which continued into the bottom phase but was addressed as they progressed upward.
+Checks:
+  - sentence_1_correct: FAIL
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #21 ---
+Score: 3/5
+Reply: The subject performed a deep squat with balanced bias, maintaining consistent technique throughout all phases without any non-bias issues being identified. Posture and control remained stable.
+Checks:
+  - sentence_1_correct: FAIL
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #22 ---
+Score: 4/5
+Reply: The normal squat with balanced bias shows that the legs were too narrow initially, which persisted until it was corrected at the bottom of the movement. This issue indicates a need for proper alignment and engagement throughout the entire range of motion.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #23 ---
+Score: 4/5
+Reply: Deep squat with knees dominated bias. Arms remained elevated throughout the entire movement, persisting from the bottom phase to the ascending phase.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #24 ---
+Score: 3/5
+Reply: The trunk remained excessively upright during the descending phase, which was addressed by focusing on the bottom position. This issue persisted throughout the entire movement.
+Checks:
+  - sentence_1_correct: FAIL
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #25 ---
+Score: 4/5
+Reply: The deep squat with balanced bias shows consistent technique throughout the movement, but there was an issue of legs being too wide at the start, which remained until the top phase. The trunk position also became too forward as one descended, persisting into the bottom phase.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #26 ---
+Score: 4/5
+Reply: Normal squat with neutral bias. The subject maintained consistent technique throughout all phases, showing no signs of bias in their movement patterns or depth.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #27 ---
+Score: 4/5
+Reply: Deep squat with balanced bias. Arms were initially not fully extended in the standing phase but disappeared briefly before returning to a correct position during the bottom phase, where they were eventually corrected as the movement progressed upward.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #28 ---
+Score: 4/5
+Reply: The normal squat with knees-dominated bias shows that the legs were too narrow throughout both descending and ascending phases, indicating an imbalance of support. This issue was consistent across all stages of the movement.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #29 ---
+Score: 2/5
+Reply: The subject's trunk position became excessively forward during the standing phase, which was addressed through descending movements to correct it.
+Checks:
+  - sentence_1_correct: FAIL
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #30 ---
+Score: 2/5
+Reply: The right arm did not extend fully until the bottom phase, where it continued to persist throughout the ascent. This issue indicates a lack of proper form execution during the initial part of the lift.
+Checks:
+  - sentence_1_correct: FAIL
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #31 ---
+Score: 3/5
+Reply: The deep squat with balanced bias shows consistent technique throughout all phases, maintaining a neutral position without any deviations from the prescribed movement pattern.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #32 ---
+Score: 4/5
+Reply: The normal squat with hips-dominated bias shows that the legs were too wide initially, which remained consistent throughout the movement. This issue indicates a need for improved core control and proper alignment to maintain a balanced stance from start to finish.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #33 ---
+Score: 2/5
+Reply: The subject's deep squat had a significant issue with the trunk being too upright, which initially manifested during the Descending phase and continued into the Bottom phase without improvement until it was corrected in the Ascending phase.
+Checks:
+  - sentence_1_correct: FAIL
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #34 ---
+Score: 4/5
+Reply: Normal squat with neutral bias. Arms not fully extended initially during standing phase, which improved as the movement progressed into descending.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #35 ---
+Score: 3/5
+Reply: The deep squat with balanced bias shows that the legs were too narrow initially but disappeared briefly before resurfacing during the ascending phase.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #36 ---
+Score: 3/5
+Reply: The normal squat with balanced bias shows consistent technique throughout all phases, maintaining a neutral stance and controlled movements without any deviations from the standard form.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #37 ---
+Score: 3/5
+Reply: The subject's trunk was excessively forward at the start of the movement, which continued into the ascending phase. This issue is consistent across all phases.
+Checks:
+  - sentence_1_correct: FAIL
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #38 ---
+Score: 3/5
+Reply: The normal squat with knees-dominated bias shows arms were positioned above the bar at the bottom of the movement, which was addressed as it progressed to a more controlled position during ascent.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #39 ---
+Score: 4/5
+Reply: The deep squat with balanced bias shows consistent technique throughout the movement, but there was an issue of legs being too wide at the start, which remained until the bottom phase. The trunk was also too upright from the standing position to the descending part of the lift.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #40 ---
+Score: 3/5
+Reply: The normal squat with balanced bias shows that the left arm was positioned too high during both descending and ascending phases, indicating an imbalance in technique. This issue remained consistent throughout the movement.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #41 ---
+Score: 3/5
+Reply: The deep squat with neutral bias shows consistent technique throughout all phases, maintaining proper form without any deviations from a balanced approach.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #42 ---
+Score: 3/5
+Reply: The normal squat with hips-dominated bias shows that the legs were too narrow initially, which persisted until it was improved during the ascending phase.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #43 ---
+Score: 4/5
+Reply: Deep squat with balanced bias. Trunk position became excessively forward during descending phase, which was addressed by focusing on the bottom of the movement.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #44 ---
+Score: 4/5
+Reply: Normal squat with knees dominated bias. Arms were initially not fully extended during the standing phase but disappeared briefly before returning in the ascending phase.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #45 ---
+Score: 3/5
+Reply: The deep squat with balanced bias shows that the legs were too wide initially but remained consistent throughout both descending and ascending phases, indicating a stable technique rather than an issue.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #46 ---
+Score: 2/5
+Reply: The normal squat with a hips-dominated bias shows consistent technique throughout all phases, maintaining proper posture and control without any identified issues related to depth or balance.
+Checks:
+  - sentence_1_correct: FAIL
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #47 ---
+Score: 2/5
+Reply: The subject's trunk was consistently too upright during the entire movement, which remained a persistent issue from the bottom phase to the top.
+Checks:
+  - sentence_1_correct: FAIL
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #48 ---
+Score: 4/5
+Reply: Normal squat with balanced bias. Arms remained above the bar throughout the movement, persisting from the standing phase to the descending one before improving at the bottom.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #49 ---
+Score: 4/5
+Reply: Deep squat with knees dominated bias. Legs were consistently too narrow throughout the movement, persisting from the standing phase to the bottom position. The trunk was also consistently too forward, present from the bottom of the squat to the top.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #50 ---
+Score: 1/5
+Reply: The right arm did not extend fully initially during the descending phase, which was addressed in the bottom position.
+Checks:
+  - sentence_1_correct: FAIL
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #51 ---
+Score: 3/5
+Reply: The subject performed a deep squat with a significant hips-dominated bias, indicating that their technique was primarily influenced by their hip position rather than other factors like knee or ankle mobility. This bias suggests that they may need to focus on improving overall lower body stability and flexibility for better depth in the squat.
+Checks:
+  - sentence_1_correct: FAIL
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #52 ---
+Score: 3/5
+Reply: The normal squat with balanced bias shows that the legs were too wide initially but disappeared briefly before resurfacing during the ascending phase.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #53 ---
+Score: 2/5
+Reply: The subject's deep squat with balanced bias exhibited a trunk that was too forward during the standing phase, which continued into the bottom position but was eventually addressed as they progressed upward.
+Checks:
+  - sentence_1_correct: FAIL
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #54 ---
+Score: 3/5
+Reply: The normal squat with a knees-dominated bias shows that the arms were not fully extended at the start of descending, which continued into the ascending phase. This indicates an inconsistent technique across both phases.
+Checks:
+  - sentence_1_correct: FAIL
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #55 ---
+Score: 2/5
+Reply: The subject's legs were too narrow at the bottom, which was addressed as they ascended.
+Checks:
+  - sentence_1_correct: FAIL
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #56 ---
+Score: 3/5
+Reply: The subject's trunk remained excessively upright throughout the entire movement, which continued from the standing position to the ascending phase. This issue was consistent across all phases of the squat.
+Checks:
+  - sentence_1_correct: FAIL
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #57 ---
+Score: 3/5
+Reply: The deep squat with balanced bias shows consistent technique throughout all phases, maintaining a neutral position without any deviations from the prescribed movement pattern.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #58 ---
+Score: 4/5
+Reply: The normal squat with balanced bias shows that the legs were too wide initially, which remained until corrected at the bottom of the movement. This issue was consistent throughout the phase.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #59 ---
+Score: 4/5
+Reply: The deep squat with knees-dominated bias exhibited an issue where the arms were positioned above the shoulders during the descending phase, which persisted throughout the bottom phase but disappeared briefly before resurfacing in the ascending phase. This suggests a need for improved core control and proper alignment to maintain proper technique across all phases of the movement.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #60 ---
+Score: 3/5
+Reply: The trunk was excessively positioned forward, which remained consistent throughout the entire movement from bottom to top. This issue significantly impacted the depth of the squat, preventing it from reaching its maximum potential.
+Checks:
+  - sentence_1_correct: FAIL
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #61 ---
+Score: 4/5
+Reply: The deep squat with balanced bias shows that the legs were too narrow throughout the entire movement, persisting from the standing phase to the ascending one. This issue was initially present but was later addressed by improving the position at the bottom of the lift.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #62 ---
+Score: 4/5
+Reply: Normal squat with neutral bias. The subject maintained consistent technique throughout all phases, showing no signs of bias in their movement patterns or depth.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #63 ---
+Score: 4/5
+Reply: Deep squat with balanced bias. Trunk remained consistently upright throughout the movement, which was addressed by gradually lowering the body as it descended.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #64 ---
+Score: 3/5
+Reply: The normal squat with knees-dominated bias shows that the left arm did not extend fully during the descending phase, which continued into the ascending phase. This issue indicates a lack of proper extension throughout the entire movement.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #65 ---
+Score: 3/5
+Reply: The subject's legs were excessively wide at the bottom, which remained consistent throughout the entire movement. This issue was present from the starting position to the top of the lift.
+Checks:
+  - sentence_1_correct: FAIL
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #66 ---
+Score: 4/5
+Reply: The normal squat with balanced bias exhibited a trunk that was too forward during the standing phase but disappeared briefly before returning in the ascending phase. This issue suggests an inconsistency in technique across different phases of the movement.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #67 ---
+Score: 3/5
+Reply: The deep squat with balanced bias shows consistent technique throughout all phases, maintaining a neutral position without any deviations from the standard form.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #68 ---
+Score: 3/5
+Reply: The arms were not fully extended initially, which continued into the ascending phase of the movement. This issue indicates a lack of proper form execution from the start to the top of the lift.
+Checks:
+  - sentence_1_correct: FAIL
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #69 ---
+Score: 4/5
+Reply: Deep squat with knees dominated bias. The issue of legs being too narrow initially emerged during the descending phase, which was addressed at the bottom position.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #70 ---
+Score: 4/5
+Reply: Normal squat with neutral bias. Trunk uprightness initially emerged during standing phase and continued into the bottom phase, eventually improving as movement progressed to the ascending phase.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #71 ---
+Score: 4/5
+Reply: The deep squat with balanced bias shows that arms were positioned above the bar initially but disappeared briefly during the ascent phase. This issue is consistent across phases.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #72 ---
+Score: 3/5
+Reply: The normal squat with balanced bias shows consistent technique throughout all phases, maintaining a neutral stance and controlled movements without any deviations from the standard form.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #73 ---
+Score: 3/5
+Reply: The subject's legs were excessively wide at the start of the movement, which remained consistent throughout the ascent phase. This issue indicates a lack of proper hip control and engagement during the squatting motion.
+Checks:
+  - sentence_1_correct: FAIL
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #74 ---
+Score: 3/5
+Reply: The normal squat with a knees-dominated bias exhibited excessive trunk forward tilt primarily during the descending phase, which continued into the ascending phase. This issue was consistent throughout the entire movement.
+Checks:
+  - sentence_1_correct: FAIL
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #75 ---
+Score: 3/5
+Reply: Deep squat with balanced bias. Right arm remained consistently above the midline throughout the lift, which was addressed by descending into the bottom position.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #76 ---
+Score: 4/5
+Reply: Normal squat with hips dominated bias. Legs were consistently too narrow throughout the movement, persisting from the descending phase to the bottom position. Arms did not extend properly until the ascending phase, remaining unextended as the lift progressed.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #77 ---
+Score: 2/5
+Reply: The subject performed a deep squat with neutral bias, showing consistent technique throughout all phases without any non-bias issues being identified.
+Checks:
+  - sentence_1_correct: FAIL
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #78 ---
+Score: 4/5
+Reply: The normal squat with balanced bias exhibited a trunk that was too upright initially, which remained until the bottom phase when it was corrected. This issue persisted throughout the descending phase but was addressed at the bottom of the movement.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #79 ---
+Score: 4/5
+Reply: Deep squat with knees dominated bias. Arms did not extend consistently across phases, appearing briefly in the descending phase before disappearing, then resurfacing in the ascending phase.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #80 ---
+Score: 4/5
+Reply: Normal squat with balanced bias. The issue of legs being too wide initially appeared in the bottom phase and continued into the ascending phase.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #81 ---
+Score: 2/5
+Reply: The subject's deep squat with a hips-dominated bias exhibited trunk overcorrection initially, which was addressed through descending movements.
+Checks:
+  - sentence_1_correct: FAIL
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #82 ---
+Score: 3/5
+Reply: The normal squat with balanced bias shows consistent technique throughout all phases, maintaining a neutral stance and controlled movements without any deviations from the standard form.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #83 ---
+Score: 3/5
+Reply: The deep squat with neutral bias shows that the left arm did not extend fully during the standing phase, which continued into the ascending portion of the movement. This issue indicates a lack of proper upper body extension at the start of the lift.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #84 ---
+Score: 2/5
+Reply: The normal squat with a knees-dominated bias shows that the legs were too narrow initially, which persisted until it was improved during the ascending phase.
+Checks:
+  - sentence_1_correct: FAIL
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #85 ---
+Score: 3/5
+Reply: The subject's trunk remained too upright initially during the standing phase but disappeared briefly as they progressed to the bottom position. This issue was subsequently addressed when they began ascending.
+Checks:
+  - sentence_1_correct: FAIL
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #86 ---
+Score: 4/5
+Reply: The normal squat with hips-dominated bias exhibited arms being positioned above the barbell throughout both descending and ascending phases, indicating an imbalance of focus on upper body strength over lower body development. This issue persists consistently across all stages of the lift.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #87 ---
+Score: 3/5
+Reply: The deep squat with balanced bias shows consistent technique throughout all phases, maintaining a neutral position from bottom to top without any deviations or imbalances.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #88 ---
+Score: 3/5
+Reply: The normal squat with balanced bias showed that the legs were too wide initially, which was addressed as they descended.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #89 ---
+Score: 3/5
+Reply: The trunk was excessively forward at the bottom of the movement, which continued into the ascent phase. This issue indicates poor core control and a lack of proper pelvic alignment. To address this, focus on engaging the core muscles more effectively to maintain a neutral spine throughout the entire squat.
+Checks:
+  - sentence_1_correct: FAIL
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #90 ---
+Score: 3/5
+Reply: The normal squat with hips-dominated bias shows right arm not extending properly starting from the ascending phase and continuing into the bottom position, indicating a lack of proper extension. The trunk remains too upright throughout both the ascending and descending phases, suggesting poor posture control. This consistent issue indicates a need for improved technique in terms of upper body alignment and core stability.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #91 ---
+Score: 4/5
+Reply: Deep squat with neutral bias. Legs were consistently too narrow throughout the entire movement, persisting from the starting position to the top of the ascent.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #92 ---
+Score: 3/5
+Reply: The normal squat with balanced bias shows consistent technique throughout all phases, maintaining a neutral stance and controlled movements without any deviations from the expected pattern.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #93 ---
+Score: 4/5
+Reply: The deep squat with hips-dominated bias shows that the arms were not fully extended initially, which was addressed by focusing on the bottom phase. This issue evolved as the movement progressed from ascending to descending phases.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #94 ---
+Score: 4/5
+Reply: The normal squat with knees-dominated bias shows a trunk that is too forward initially during the standing phase but disappears briefly before returning in the ascending phase. This issue persists throughout the entire movement.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #95 ---
+Score: 3/5
+Reply: The deep squat with balanced bias shows that the legs were too wide initially but remained consistent throughout the movement, indicating a well-controlled technique rather than an issue.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #96 ---
+Score: 3/5
+Reply: The normal squat with balanced bias showed a trunk that became too upright initially, which was addressed by descending the movement.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+
+=========================================
+Model: Llama3.2-3B-Q4_S
+=========================================
+
+Average Quality Score: 4.52 / 5.00
+
+--- Pass Rate per Criterion ---
+- sentence_1_correct: 100.0%
+- sentence_count_ok: 76.8%
+- has_end_token: 98.9%
+- no_prescriptive_lang: 100.0%
+- is_factually_consistent: 75.8%
+
+--- Detailed Breakdown ---
+
+--- Prompt #2 ---
+Score: 5/5
+Reply: Normal squat with hips dominated bias. The main issue observed was the legs being too wide, which initially manifested in the standing position and continued into the descending phase before being addressed. Consistent correction of this issue led to improved technique overall. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #3 ---
+Score: 4/5
+Reply: Deep squat with knees dominated bias. The main issue observed was a trunk position that was too forward, which initially manifested as "trunk too forward" during the descending phase but persisted into the bottom position. This issue was addressed during the ascending phase. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #4 ---
+Score: 5/5
+Reply: Normal squat with balanced bias. The main issue observed was the persistent failure to extend arms fully, which started during the Descending phase and continued into the Ascending phase. This consistent technique flaw indicates a need for attention on proper arm positioning throughout the entire movement. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #5 ---
+Score: 3/5
+Reply: Deep squat with neutral bias. The main issues observed were legs too narrow, which persisted from Standing to Ascending, and a trunk that was initially too upright, but corrected by the Ascending phase. Consistent technique was maintained throughout all phases of the squat analysis. END.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #6 ---
+Score: 4/5
+Reply: Normal squat with hips dominated bias. No major issues were identified, as posture and control consistently demonstrated throughout all phases of analysis. Consistent technique was observed, indicating a solid foundation for further development. END.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #7 ---
+Score: 4/5
+Reply: Deep squat with balanced bias. The main issue identified during the analysis is that the left arm did not extend properly, which was a problem that arose during the descending phase of the movement. This issue was addressed by Bottom, who made adjustments to correct it. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #8 ---
+Score: 5/5
+Reply: Normal squat with knees dominated bias. The main issue observed during the analysis was a trunk that remained too upright throughout the movement, which affected overall technique consistency. This issue was present across different phases of the squat, indicating a need for attention to proper posture and alignment. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #9 ---
+Score: 5/5
+Reply: Deep squat with balanced bias. The main issue observed was the legs being too wide, which initially manifested in the standing position and continued into the bottom phase before being addressed during the ascending phase. Consistent technique was maintained throughout the analysis, with no other notable issues identified. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #10 ---
+Score: 5/5
+Reply: Normal squat with hips dominated bias. The main issue observed was the arms being too high, which was a consistent problem throughout both the Descending and Ascending phases of the analysis. This resulted in an overall lack of proper arm positioning during the squat. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #11 ---
+Score: 5/5
+Reply: Deep squat with balanced bias.
+The analysis revealed no significant deviations from the desired technique, with consistent posture and control throughout all phases. The athlete demonstrated a strong foundation for optimal squatting form. 
+END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #12 ---
+Score: 5/5
+Reply: Normal squat with neutral bias. Consistent technique was observed throughout the analysis, with no notable issues identified. The legs remained relatively narrow during the initial standing phase, which persisted into the ascending movement. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #13 ---
+Score: 5/5
+Reply: Deep squat with knees dominated bias. The main issue observed was the trunk being too forward, which started to appear during the bottom phase of the movement and continued into the ascending phase. This resulted in an overall loss of proper posture throughout the entire squat. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #14 ---
+Score: 3/5
+Reply: Normal squat with balanced bias. The main issue observed was the right arm being too high, which was initially present during the descending phase but was addressed by making adjustments. Consistent technique was maintained throughout the analysis period. END.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #15 ---
+Score: 4/5
+Reply: Deep squat with hips dominated bias. The main issues observed were legs being too wide at the start, which persisted throughout the movement, and arms not extending fully during the ascending phase. Consistent technique was maintained otherwise. END.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #16 ---
+Score: 4/5
+Reply: Normal squat with balanced bias.
+The analysis revealed no significant issues, as posture and control remained consistent throughout all phases. Consistent technique was observed, indicating a strong foundation for further development. END.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #17 ---
+Score: 5/5
+Reply: Deep squat with balanced bias. The main issue observed during the analysis was a trunk that remained too upright throughout the movement, which was initially present in the Descending phase but also recurred in the Ascending phase. This consistent deviation from proper technique indicates a need for attention to maintaining a neutral spine position during the squat. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #18 ---
+Score: 5/5
+Reply: Normal squat with knees dominated bias. The main issue observed was the persistent presence of arms not extending fully during the movement, which started to appear in the standing position and continued into the ascending phase. This consistent technique deviation indicates a need for attention on proper arm extension throughout the entire squat range of motion. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #19 ---
+Score: 4/5
+Reply: Deep squat with neutral bias. Consistent technique was observed throughout the analysis, with no notable issues identified. The only deviation noted was a brief instance of legs being too wide during one phase, which was addressed by the coach. END.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #20 ---
+Score: 5/5
+Reply: Normal squat with hips dominated bias. The main issue observed was a trunk position that was too forward, which initially manifested in the standing position but also affected the bottom of the squat. This issue was addressed as the athlete progressed to the ascending phase of the movement. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #21 ---
+Score: 5/5
+Reply: Deep squat with balanced bias.
+The analysis revealed no significant deviations from the desired technique, with consistent posture and control throughout all phases. The athlete demonstrated a strong foundation for optimal squatting form. 
+END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #22 ---
+Score: 4/5
+Reply: Normal squat with balanced bias. The main issue identified was a legs too narrow position, which was present from the initial Standing phase to the Descending phase, but resolved once proper form was established at the Bottom position. Consistent technique was maintained throughout the phases, indicating a solid foundation for future development. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #23 ---
+Score: 5/5
+Reply: Deep squat with knees dominated bias. The main issue observed was the persistent elevation of arms above parallel, which started to appear during the bottom phase and continued into the ascending phase. This resulted in an inconsistent technique, where the athlete struggled to maintain proper form throughout the entire movement. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #24 ---
+Score: 4/5
+Reply: Normal squat with hips dominated bias. The main issue observed was the trunk being too upright, which was initially present in the Descending phase but later addressed by adjustments made during the Bottom phase. Consistent technique was maintained throughout the analysis period. END.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #25 ---
+Score: 4/5
+Reply: Deep squat with balanced bias. The main issues observed were legs too wide, which was a persistent problem from Standing to Ascending phases, and trunk too forward, also present throughout the entire Descending and Bottom phases. Despite these issues, consistent technique was maintained across all phases. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #26 ---
+Score: 5/5
+Reply: Normal squat with neutral bias.
+The analysis revealed no significant issues, with consistent technique and good posture throughout all phases. The athlete demonstrated a strong foundation for the squat, showcasing their ability to maintain control and stability during the movement. 
+END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #27 ---
+Score: 5/5
+Reply: Deep squat with balanced bias.
+The main issue observed during the analysis was the inconsistent extension of the arms, which initially appeared in the standing phase, then disappeared temporarily, and finally re-emerged in the bottom position before being addressed in the ascending phase. Consistent arm extension throughout the entire movement is crucial for optimal technique. 
+END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #28 ---
+Score: 5/5
+Reply: Normal squat with knees dominated bias. Consistent technique was observed throughout the phases, with no notable issues identified. The primary concern noted was legs being too narrow during the initial descent phase. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #29 ---
+Score: 5/5
+Reply: Deep squat with hips dominated bias. The main issue observed was the trunk being too forward, which was initially present in the standing position but later corrected during the descending phase of training. Consistent technique was maintained throughout the analysis, with no other notable issues identified. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #30 ---
+Score: 4/5
+Reply: Normal squat with balanced bias. The right arm did not extend properly, a issue that was present from the bottom of the movement and continued into the ascending phase. This consistent lack of extension may indicate a need for attention to proper arm positioning during the squat. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #31 ---
+Score: 5/5
+Reply: Deep squat with balanced bias.
+The analysis revealed no significant deviations from the desired technique, with consistent posture and control throughout all phases. The athlete demonstrated a strong foundation for optimal squatting form. 
+END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #32 ---
+Score: 4/5
+Reply: Normal squat with hips dominated bias. The main issue observed was legs too wide, which started in the standing position and continued into the ascending phase of the squat. This consistent deviation from proper technique indicates a need for attention to hip positioning during the movement. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #33 ---
+Score: 5/5
+Reply: Deep squat with knees dominated bias. The main issue observed was a trunk that remained too upright, which initially manifested during the descending phase but persisted into the bottom position before being addressed in the ascending phase. Consistent correction of this issue is key to maintaining proper technique throughout the entire squat movement. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #34 ---
+Score: 5/5
+Reply: Normal squat with neutral bias.
+The main issue observed was the inconsistent extension of the arms, which initially manifested as a problem in the Standing phase but was later addressed during the Descending phase. Consistent arm extension throughout the entire movement is crucial for optimal technique. 
+END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #35 ---
+Score: 5/5
+Reply: Deep squat with balanced bias. The main issue observed during the analysis is that legs were too narrow at the bottom of the movement, which had previously been present in the Descending phase but then resolved before reappearing in the Ascending phase. This indicates a potential inconsistency in technique consistency across different training phases. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #36 ---
+Score: 4/5
+Reply: Normal squat with balanced bias.
+The analysis revealed no significant issues, as posture and control remained consistent throughout all phases. Consistent technique was observed, indicating a strong foundation for further development. END.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #37 ---
+Score: 5/5
+Reply: Deep squat with hips dominated bias. The main issue observed was a trunk that moved too forward, which started to appear during the standing phase and continued into the ascending phase of the movement. This resulted in an overall loss of proper posture throughout the entire squat. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #38 ---
+Score: 4/5
+Reply: Normal squat with knees dominated bias. The main issue observed was the arms being too high, which was initially present at the bottom position but was addressed during the ascending phase of training. Consistent technique was maintained throughout the analysis period. END.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #39 ---
+Score: 4/5
+Reply: Deep squat with balanced bias. The main issues observed were legs too wide, which was consistently present throughout the phases of the squat, and a trunk that remained too upright throughout the entire movement. These consistent issues indicate areas for refinement in technique. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #40 ---
+Score: 4/5
+Reply: Normal squat with balanced bias. The main issue observed was the left arm being too high during the descent phase, which persisted throughout both the descending and ascending phases of the squat. This consistent positioning indicates a need for attention to proper arm positioning during the movement. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #41 ---
+Score: 4/5
+Reply: Deep squat with neutral bias.
+The analysis revealed no significant issues, as posture and control remained consistent throughout all phases. Consistent technique was observed, indicating a strong foundation for further development. END.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #42 ---
+Score: 4/5
+Reply: Normal squat with hips dominated bias. The main issue identified was legs too narrow, which initially manifested in the standing position and continued into the bottom phase before being addressed during the ascending phase. Consistent technique was observed throughout all phases of the squat analysis. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #43 ---
+Score: 5/5
+Reply: Deep squat with balanced bias. The main issue identified was a trunk position that was too forward, which was initially observed during the Descending phase but later addressed through adjustments made by the athlete. Consistent technique was maintained throughout the analysis period. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #44 ---
+Score: 5/5
+Reply: Normal squat with knees dominated bias. The main issue observed during the analysis is the inconsistent extension of the arms, which initially appeared in the Standing phase, then disappeared temporarily, and finally reappeared in the Ascending phase. This inconsistency may indicate a need for attention to proper arm positioning throughout the movement. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #45 ---
+Score: 5/5
+Reply: Deep squat with balanced bias. Consistent technique was observed throughout the analysis, with no notable deviations from proper form. The issue of legs being too wide was a persistent problem that started during the Descending phase and continued into the Ascending phase. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #46 ---
+Score: 4/5
+Reply: Normal squat with hips dominated bias. No major issues were identified, as posture and control consistently demonstrated throughout all phases of analysis. Consistent technique was observed, indicating a solid foundation for further development.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #47 ---
+Score: 5/5
+Reply: Deep squat with neutral bias. The main issue observed was a trunk that remained too upright throughout the movement, starting from the bottom phase and persisting into the ascending phase. This resulted in an overall inconsistent technique. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #48 ---
+Score: 5/5
+Reply: Normal squat with balanced bias. The main issue observed was the persistent elevation of arms above hip level, which was initially seen during the standing phase but also present during the descending phase, until it was addressed by focusing on proper form at the bottom of the movement. Consistent technique and attention to detail were key in resolving this issue. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #49 ---
+Score: 4/5
+Reply: Deep squat with knees dominated bias. The main issues observed were legs too narrow, which was present from the initial standing phase to the descending phase, and trunk too forward, also present from the bottom phase to the ascending phase. Despite these issues, consistent technique was maintained throughout all phases of the squat. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #50 ---
+Score: 3/5
+Reply: Normal squat with balanced bias. The main issue identified during the analysis was a right arm extension delay, which was initially observed in the descending phase but later addressed by Bottom. Consistent technique was maintained throughout the phases of the analysis. END.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #51 ---
+Score: 4/5
+Reply: Deep squat with hips dominated bias. No major issues were identified, as posture and control consistently demonstrated a strong foundation throughout all phases of training. Consistent technique was observed, indicating a solid understanding of the movement pattern. END.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #52 ---
+Score: 5/5
+Reply: Normal squat with balanced bias. The main issue observed during the analysis is that legs were too wide at the top of the movement, which had previously been seen in the Descending phase but then resolved before being reintroduced in the Ascending phase. This consistent deviation from proper technique indicates a need for attention to maintaining proper positioning throughout the squat. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #53 ---
+Score: 5/5
+Reply: Deep squat with balanced bias. The main issue identified was a trunk position that was initially too forward, which persisted from the standing phase to the bottom of the squat, but was later corrected as the athlete progressed through the ascending phase. Consistent correction and refinement of this technique were key to resolving the issue. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #54 ---
+Score: 5/5
+Reply: Normal squat with knees dominated bias. The main issue observed was the persistent presence of arms not extending fully, which was a notable deviation from proper form throughout both phases of the analysis. This consistent deviation indicates a need for attention to arm positioning during the squat movement. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #55 ---
+Score: 4/5
+Reply: Deep squat with neutral bias. Consistent technique was observed throughout the analysis, with no notable issues identified. The only deviation noted was a brief period where legs were too narrow during the bottom phase, which was addressed earlier in the training cycle. END.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #56 ---
+Score: 4/5
+Reply: Normal squat with hips dominated bias. The main issue observed was a trunk that remained too upright throughout the movement, starting from the standing position and persisting into the ascending phase. This resulted in an overall depth of 37.1cm. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #57 ---
+Score: 5/5
+Reply: Deep squat with balanced bias.
+The analysis revealed no significant deviations from the desired technique, with consistent posture and control throughout all phases. The athlete demonstrated a strong foundation for optimal squatting form. 
+END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #58 ---
+Score: 5/5
+Reply: Normal squat with balanced bias. The main issue observed was the legs widening during the descent phase, which was initially present from standing to descending but was later addressed by correcting the technique at the bottom position. Consistent correction of this issue has resolved the problem, demonstrating a stable and reliable squat technique. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #59 ---
+Score: 5/5
+Reply: Deep squat with knees dominated bias. The main issue observed was the consistent elevation of arms above parallel, which persisted across different phases of the squat. This resulted in an inconsistent technique, where the arm position varied throughout the movement. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #60 ---
+Score: 5/5
+Reply: Normal squat with hips dominated bias. The main issue observed was a trunk that moved too forward, which started at the bottom phase and continued into the ascending phase. This movement pattern indicates an inconsistent core engagement throughout the entire squat movement. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #61 ---
+Score: 5/5
+Reply: Deep squat with balanced bias. The main issues observed were legs being too narrow, which started from the standing phase and continued into ascending, and arms not fully extending during descending, which was addressed by correction at the bottom of the movement. Consistent technique was maintained throughout all phases of the squat analysis. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #62 ---
+Score: 4/5
+Reply: Normal squat with neutral bias.
+The analysis revealed no significant issues, as posture and control remained consistent throughout all phases. Consistent technique was observed, indicating a strong foundation for further development. END.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #63 ---
+Score: 5/5
+Reply: Deep squat with balanced bias. The main issue observed was the trunk being too upright, which was initially present in the standing position but later corrected during the descending phase of training. Consistent technique was maintained throughout the analysis period. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #64 ---
+Score: 4/5
+Reply: Normal squat with knees dominated bias. The main issue observed was the left arm not extending fully, which was a persistent problem throughout both the descending and ascending phases of the squat. This consistent lack of extension indicates a need for attention to proper arm positioning during the movement. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #65 ---
+Score: 4/5
+Reply: Deep squat with hips dominated bias. The main issue observed was legs too wide, which was present from the bottom phase onwards. This resulted in an imbalance that affected overall technique consistency. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #66 ---
+Score: 5/5
+Reply: Normal squat with balanced bias. The main issue observed during the analysis was a trunk position that became too forward during the descending phase of the squat, which then returned to normal in the ascending phase. This inconsistency suggests a need for attention to maintaining proper trunk positioning throughout the entire movement. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #67 ---
+Score: 5/5
+Reply: Deep squat with balanced bias.
+The analysis revealed no significant deviations from the desired technique, with consistent posture and control throughout all phases. The athlete demonstrated a strong foundation for optimal squatting form. 
+END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #68 ---
+Score: 4/5
+Reply: Normal squat with hips dominated bias. The main issue observed was the persistent failure to extend arms fully, which started during the standing phase and continued into the ascending phase. This resulted in a suboptimal depth of 37.7cm. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #69 ---
+Score: 4/5
+Reply: Deep squat with knees dominated bias. Consistent technique was observed throughout the phases, with no notable issues arising during the analysis. The only deviation noted was a correction made to address an issue called "Legs too narrow" that initially appeared in one of the earlier phases. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #70 ---
+Score: 4/5
+Reply: Normal squat with neutral bias.
+The main issue observed was a trunk that remained too upright throughout the movement, which was initially present from standing to bottom position but resolved as the athlete progressed to ascending phases. This issue impacted overall squat depth, with the maximum depth achieved being 35.3 cm. 
+END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #71 ---
+Score: 5/5
+Reply: Deep squat with balanced bias.
+The main issue observed during the analysis is that arms tend to rise above parallel height during the ascending phase of the squat, a problem that initially manifested at the bottom position before disappearing and then reappearing. This inconsistency indicates a need for attention to proper arm positioning throughout the entire movement. 
+END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #72 ---
+Score: 4/5
+Reply: Normal squat with balanced bias.
+The analysis revealed no significant issues, as posture and control remained consistent throughout all phases. Consistent technique was observed, indicating a strong foundation for further development. END.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #73 ---
+Score: 4/5
+Reply: Deep squat with hips dominated bias. The main issue observed was legs too wide, which started to appear during the standing phase and continued into the ascending phase. This resulted in a consistent deviation from optimal technique throughout the movement. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #74 ---
+Score: 5/5
+Reply: Normal squat with knees dominated bias. The main issue observed was the trunk being too forward, which started to appear during the descending phase of the movement and continued into the ascending phase. This consistent deviation from proper technique indicates a need for attention to maintaining a neutral spine position throughout the squat. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #75 ---
+Score: 4/5
+Reply: Deep squat with balanced bias. The main issue observed was the right arm being too high, which was initially present in the standing position but later corrected during the descending phase of training. Consistent technique was maintained throughout the analysis period. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #76 ---
+Score: 5/5
+Reply: Normal squat with hips dominated bias. The main issues observed were legs being too narrow, which was a consistent problem throughout the analysis phases, and arms not fully extending during the ascending phase. These issues indicate areas for focus to improve overall squat technique consistency. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #77 ---
+Score: 4/5
+Reply: Deep squat with neutral bias.
+The analysis revealed no significant issues, as posture and control remained consistent throughout all phases. Consistent technique was observed, indicating a strong foundation for further development. END.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #78 ---
+Score: 5/5
+Reply: Normal squat with balanced bias. The main issue observed was a trunk that remained too upright throughout the movement, which was initially present from Standing to Descending phases but was later addressed by correcting it during the Bottom phase. Consistent correction of this issue is key to maintaining proper technique. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #79 ---
+Score: 5/5
+Reply: Deep squat with knees dominated bias. The main issue observed during the analysis is the inconsistent extension of the arms, which appeared initially in the Descending phase, then disappeared temporarily, and finally reemerged in the Ascending phase. This inconsistency suggests a need for attention to arm positioning throughout the movement. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #80 ---
+Score: 4/5
+Reply: Normal squat with balanced bias. The main issue observed was legs too wide, which first appeared at the bottom phase and continued into the ascending phase. This consistent deviation from proper technique indicates a need for attention to knee tracking during the squat movement. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #81 ---
+Score: 5/5
+Reply: Deep squat with hips dominated bias. The main issue observed was the trunk being too forward, which was initially present in the standing position but later corrected during the descending phase of training. Consistent technique was maintained throughout the analysis period. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #82 ---
+Score: 5/5
+Reply: Normal squat with balanced bias.
+The analysis revealed no significant issues, with consistent posture and control throughout all phases. The athlete demonstrated a well-executed technique, showcasing their ability to maintain proper form under various conditions. 
+END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #83 ---
+Score: 4/5
+Reply: Deep squat with neutral bias.
+The main issue observed was the persistent failure to extend the left arm during the ascending phase, which has been present since standing. This indicates a need for attention on proper arm positioning and movement patterns. 
+END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #84 ---
+Score: 4/5
+Reply: Normal squat with knees dominated bias. The main issue identified was legs too narrow, which initially presented in the Descending phase and continued into the Bottom phase but was later addressed during the Ascending phase. Consistent technique was observed throughout the analysis period. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #85 ---
+Score: 5/5
+Reply: Deep squat with balanced bias. The main issue observed was a trunk that initially became too upright during the standing phase, only to return to an upright position again in the bottom phase before being corrected as the lifter ascended. Consistent technique was maintained throughout the movement, with no other notable issues identified. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #86 ---
+Score: 5/5
+Reply: Normal squat with hips dominated bias. The main issue observed was the arms being too high, which started to appear during the descending phase of the movement and continued into the ascending phase. This resulted in an inconsistent technique. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #87 ---
+Score: 4/5
+Reply: Deep squat with balanced bias.
+The analysis revealed no significant deviations from the desired technique, with consistent posture and control throughout all phases. The athlete demonstrated a well-executed squat pattern, showcasing excellent overall technique consistency. END.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #88 ---
+Score: 3/5
+Reply: Normal squat with balanced bias. The main issue observed was legs too wide, which initially manifested in the Standing phase but was later addressed during the Descending phase. Consistent technique was maintained throughout the analysis period. END.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #89 ---
+Score: 5/5
+Reply: Deep squat with knees dominated bias. The main issue observed was the trunk being too forward, which started to appear during the bottom phase of the movement and continued into the ascending phase. This resulted in an overall inconsistent technique. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #90 ---
+Score: 4/5
+Reply: Normal squat with hips dominated bias. The main issues observed were the right arm not extending fully, which was a persistent problem from the descending phase to the bottom of the movement, and an upright trunk position, which also persisted throughout the ascending phase. Despite these issues, consistent technique was maintained across phases. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #91 ---
+Score: 5/5
+Reply: Deep squat with neutral bias. Consistent technique was observed throughout the analysis, with no notable deviations from proper form. The issue of legs being too narrow was identified, particularly during the initial standing phase and ascending movement. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #92 ---
+Score: 4/5
+Reply: Normal squat with balanced bias.
+The analysis revealed no significant deviations from proper technique, with consistent posture and control throughout all phases. Consistent execution of the squat was observed, indicating a strong foundation in the movement pattern. END.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #93 ---
+Score: 5/5
+Reply: Deep squat with hips dominated bias. The main issue identified was the presence of arms not extending fully, which was a problem that arose during the Descending phase and was later addressed by Bottom. Consistently maintaining proper form throughout the entire movement is key to avoiding similar issues in the future. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #94 ---
+Score: 5/5
+Reply: Normal squat with knees dominated bias. The main issue observed during the analysis was a trunk position that was consistently too forward, which affected the overall technique throughout the movement phases. This issue led to an inconsistent squat depth, as it was present at the beginning (Standing), temporarily absent during Descending, and reappeared in Ascending. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #95 ---
+Score: 5/5
+Reply: Deep squat with balanced bias. Consistent technique was observed throughout the phases, with no notable deviations from proper form. The issue of legs being too wide was a persistent problem that started in Descending and continued into Ascending. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #96 ---
+Score: 5/5
+Reply: Normal squat with balanced bias. The main issue observed was the trunk being too upright, which was initially present in the standing position but later corrected during the descending phase of the squat analysis. Consistent technique was demonstrated throughout the assessment, indicating a solid foundation for further development. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+
+=========================================
+Model: Llama3.2-3B-Q4_M
+=========================================
+
+Average Quality Score: 4.33 / 5.00
+
+--- Pass Rate per Criterion ---
+- sentence_1_correct: 100.0%
+- sentence_count_ok: 85.3%
+- has_end_token: 83.2%
+- no_prescriptive_lang: 100.0%
+- is_factually_consistent: 64.2%
+
+--- Detailed Breakdown ---
+
+--- Prompt #2 ---
+Score: 4/5
+Reply: Normal squat with hips dominated bias. The main issue identified was legs too wide, which initially manifested in the standing position and continued into the descending phase before being addressed. Consistent technique was observed throughout the analysis. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #3 ---
+Score: 4/5
+Reply: Deep squat with knees dominated bias. The main issue identified was a trunk position that was too forward, which initially manifested as "trunk too forward" during the descending phase but persisted into the bottom position. This issue was later addressed in the ascending phase. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #4 ---
+Score: 5/5
+Reply: Normal squat with balanced bias.
+The main issue observed was the persistent failure to extend arms fully, which started during the Descending phase and continued into the Ascending phase. This suggests a consistent technique flaw that needs attention. 
+END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #5 ---
+Score: 4/5
+Reply: Deep squat with neutral bias.
+The main issues observed were legs too narrow, which persisted from Standing to Ascending, and trunk too upright, initially present in Bottom but corrected during Ascending. Consistent technique was maintained throughout the phases, indicating a solid foundation for further development. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #6 ---
+Score: 4/5
+Reply: Normal squat with hips dominated bias.
+The analysis revealed no significant issues, as posture and control remained consistent throughout all phases of training. Consistent technique was observed, indicating a solid foundation for further development. END.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #7 ---
+Score: 4/5
+Reply: Deep squat with balanced bias.
+The main issue identified during the analysis is that the left arm did not extend properly, which was initially observed in the descending phase but later corrected by Bottom. Consistent technique was maintained throughout the rest of the movement. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #8 ---
+Score: 4/5
+Reply: Normal squat with knees dominated bias. The main issue observed during the analysis is that the trunk remained upright throughout the movement, particularly noticeable in the descending phase, before resurfacing in the ascending phase. This inconsistency indicates a need for attention to maintaining a neutral spine position during the entire squat range of motion.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #9 ---
+Score: 3/5
+Reply: Deep squat with balanced bias.
+The main issue identified was legs too wide, which initially manifested in the standing position and continued into the bottom phase before being addressed during the ascending phase. Consistent technique throughout all phases of the squat was observed.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #10 ---
+Score: 5/5
+Reply: Normal squat with hips dominated bias. The main issue observed was arms being too high during the descent, which was a consistent problem throughout both phases of training. This indicates a need to focus on proper arm positioning and control during the squat movement. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #11 ---
+Score: 4/5
+Reply: Deep squat with balanced bias.
+The analysis revealed no significant deviations from optimal technique, with consistent posture and control throughout all phases. The athlete's ability to maintain a balanced position throughout the entire range of motion was particularly noteworthy. END.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #12 ---
+Score: 5/5
+Reply: Normal squat with neutral bias. Consistent technique was observed throughout the analysis, with no notable deviations from proper form. The issue of legs being too narrow was identified, particularly during the standing and ascending phases. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #13 ---
+Score: 5/5
+Reply: Deep squat with knees dominated bias. The main issue identified was a trunk that was too forward, which first appeared during the bottom phase of the movement and continued into the ascending phase. This consistent deviation from proper technique indicates a need for attention to maintaining a neutral spine position throughout the entire squat. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #14 ---
+Score: 4/5
+Reply: Normal squat with balanced bias.
+The main issue observed was the right arm being too high, which was initially present in the Descending phase but later corrected by Bottom. Consistent technique was maintained throughout the analysis, indicating a solid foundation for further development. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #15 ---
+Score: 4/5
+Reply: Deep squat with hips dominated bias. The main issues observed were legs too wide, which was present from the initial standing phase to the descending phase, and arms not fully extended, which was also consistent throughout the entire movement. These consistent issues indicate a need for attention to proper positioning and alignment during the squat. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #16 ---
+Score: 4/5
+Reply: Normal squat with balanced bias.
+The analysis revealed no significant deviations from ideal technique, with consistent posture and control throughout all phases. Consistent technique was observed, indicating a strong foundation in squatting.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #17 ---
+Score: 5/5
+Reply: Deep squat with balanced bias. The main issue observed during the analysis is that the trunk position has been inconsistent throughout the phases, initially being too upright before returning to a neutral position only to become upright again in the ascending phase. This inconsistency suggests a need for attention to maintaining optimal trunk positioning throughout the movement. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #18 ---
+Score: 5/5
+Reply: Normal squat with knees dominated bias. The main issue observed was the persistent presence of arms not extending fully, which started to appear during the standing phase and continued into the ascending phase. This consistent technique flaw indicates a need for attention on proper arm extension during the squat movement. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #19 ---
+Score: 4/5
+Reply: Deep squat with neutral bias.
+The main issue identified was legs too wide, which was a problem that arose during the Descending phase but was later addressed by Bottom. Consistent technique was observed throughout the analysis, indicating a solid foundation for further development. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #20 ---
+Score: 5/5
+Reply: Normal squat with hips dominated bias. The main issue identified was a trunk position that was too forward, which initially manifested in the standing position but continued into the bottom phase of the squat. This issue was addressed during the ascending phase of the movement. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #21 ---
+Score: 4/5
+Reply: Deep squat with balanced bias.
+The analysis revealed no significant deviations from ideal technique, with consistent posture and control throughout all phases. The athlete's ability to maintain a balanced position was particularly noteworthy. END.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #22 ---
+Score: 3/5
+Reply: Normal squat with balanced bias.
+The main issue identified was a legs too narrow position, which was present from the initial standing phase to the descending phase, but was later addressed by correcting the bottom position. Consistent technique was maintained throughout the analysis.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #23 ---
+Score: 5/5
+Reply: Deep squat with knees dominated bias. The main issue observed was the persistent elevation of arms above parallel, which started to appear during the bottom phase and continued into the ascending phase. This consistent deviation from proper form indicates a need for attention to arm positioning during the squat movement. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #24 ---
+Score: 5/5
+Reply: Normal squat with hips dominated bias. The main issue identified was a trunk that remained too upright, which was initially observed during the Descending phase but later addressed through adjustments made to the Bottom position. Consistent technique was maintained throughout the analysis period. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #25 ---
+Score: 4/5
+Reply: Deep squat with balanced bias.
+The main issues observed were legs too wide, which was consistently present throughout the phases, and a trunk that was too forward, particularly noticeable during the descending phase. These imbalances may impact overall squat technique and stability. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #26 ---
+Score: 4/5
+Reply: Normal squat with neutral bias.
+The analysis revealed no significant deviations from ideal technique, with consistent posture and control throughout all phases. Consistent technique was observed, indicating a strong foundation in squatting.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #27 ---
+Score: 5/5
+Reply: Deep squat with balanced bias.
+The main issue observed during the analysis was the recurring problem of arms not extending fully, which initially appeared in the standing position but was later corrected as the athlete progressed through the movement. Consistent technique throughout all phases of the squat was a notable aspect of the analysis. 
+END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #28 ---
+Score: 4/5
+Reply: Normal squat with knees dominated bias. The main issue identified was legs too narrow, which was a persistent problem throughout the analysis phases. This indicates a consistent technique flaw that needs attention during training. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #29 ---
+Score: 4/5
+Reply: Deep squat with hips dominated bias. The main issue identified was a trunk position that was too forward, which was initially present in the standing phase but later corrected during the descending phase of training. Consistent technique was maintained throughout the analysis period. END.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #30 ---
+Score: 4/5
+Reply: Normal squat with balanced bias.
+The right arm did not extend fully during the descent, a consistent issue that was present throughout the entire movement phase. This lack of extension may indicate a need for attention to proper arm positioning and control. 
+END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #31 ---
+Score: 4/5
+Reply: Deep squat with balanced bias.
+The analysis revealed no significant deviations from optimal technique, with consistent posture and control throughout all phases. The athlete's ability to maintain a balanced position was particularly noteworthy. END.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #32 ---
+Score: 4/5
+Reply: Normal squat with hips dominated bias. The main issue observed was legs too wide, which initially presented in the standing position and continued into the ascending phase of the movement. This consistent deviation from proper technique indicates a need for attention to hip positioning during the squat. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #33 ---
+Score: 5/5
+Reply: Deep squat with knees dominated bias. The main issue identified was trunk uprightness, which initially manifested as a problem during the descending phase but persisted into the bottom position before being addressed in the ascending phase. Consistent technique was maintained throughout the analysis period. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #34 ---
+Score: 4/5
+Reply: Normal squat with neutral bias.
+The main issue identified was the arm position, which initially presented as arms not fully extended during the descent phase but was later addressed through correction of the descending phase. Consistent technique was observed throughout the analysis. END.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #35 ---
+Score: 5/5
+Reply: Deep squat with balanced bias. The issue of legs being too narrow first emerged during the Descending phase, only to be absent for a brief period before resurfacing again in the Ascending phase. This recurring pattern suggests an ongoing challenge with maintaining proper leg width throughout the movement. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #36 ---
+Score: 4/5
+Reply: Normal squat with balanced bias.
+The analysis revealed no significant deviations from ideal technique, with consistent posture and control throughout all phases. The athlete's ability to maintain a balanced position was particularly noteworthy.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #37 ---
+Score: 5/5
+Reply: Deep squat with hips dominated bias. The main issue observed was a trunk that moved too forward, which started to appear during the standing phase and continued into the ascending phase. This consistent deviation from proper technique indicates a need for attention to maintaining a neutral spine position throughout the movement. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #38 ---
+Score: 4/5
+Reply: Normal squat with knees dominated bias. The main issue identified was arms being too high, which was addressed during the Ascending phase of training. Consistent technique was maintained throughout the analysis, with no other significant issues detected.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #39 ---
+Score: 4/5
+Reply: Deep squat with balanced bias. The main issues observed were legs too wide, which was consistently present throughout the phases of the squat, and trunk too upright, also persisting across all phases. Despite these issues, consistent technique was maintained throughout the analysis. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #40 ---
+Score: 4/5
+Reply: Normal squat with balanced bias.
+The main issue observed was a left arm that was too high during the descent, which was present throughout both the descending and ascending phases of the squat. This consistent positioning of the left arm indicates a need for attention to proper arm position in the squat movement. 
+END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #41 ---
+Score: 5/5
+Reply: Deep squat with neutral bias.
+The analysis revealed no significant issues, with consistent posture and control throughout all phases. The athlete demonstrated a well-executed technique, showcasing their ability to maintain proper form under various conditions. 
+END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #42 ---
+Score: 3/5
+Reply: Normal squat with hips dominated bias. The main issue identified was legs too narrow, which initially manifested in the standing position and continued into the bottom phase of the squat, but was later addressed during the ascending phase. Consistent technique was observed throughout all phases of the squat analysis.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #43 ---
+Score: 5/5
+Reply: Deep squat with balanced bias.
+The main issue identified was a trunk position that was initially too forward, which was addressed through correction work. Consistent technique was maintained throughout the analysis phases. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #44 ---
+Score: 5/5
+Reply: Normal squat with knees dominated bias.
+The main issue observed during the analysis is the inconsistent extension of the arms, which initially appeared in the Standing phase but then disappeared temporarily before reappearing in the Ascending phase. This inconsistency suggests a need for attention to proper arm positioning throughout the movement. 
+END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #45 ---
+Score: 5/5
+Reply: Deep squat with balanced bias. Consistent technique was observed throughout the analysis, with no notable deviations from proper form. The issue of legs being too wide first appeared in Descending and persisted through Ascending, indicating a potential need for attention to foot placement and positioning. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #46 ---
+Score: 4/5
+Reply: Normal squat with hips dominated bias.
+The analysis revealed no significant issues, with consistent posture and control throughout all phases. The athlete's technique was found to be reliable and effective, demonstrating a strong foundation for further development.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #47 ---
+Score: 5/5
+Reply: Deep squat with neutral bias.
+The main issue observed was a trunk that remained too upright throughout the movement, starting from the bottom phase. This consistent technique flaw indicates a need for attention to maintaining a more upright posture during the descent. 
+END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #48 ---
+Score: 4/5
+Reply: Normal squat with balanced bias.
+The main issue observed was the persistent elevation of arms during the descent phase, which was initially seen in the standing position but not addressed until later correction work on the bottom phase. Consistent technique was maintained throughout the analysis period.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #49 ---
+Score: 3/5
+Reply: Deep squat with knees dominated bias. The main issues observed were legs too narrow, which was present from the initial standing phase to the descending phase, and trunk too forward, also present from the bottom phase to the ascending phase. Despite these inconsistencies, consistent technique was maintained throughout the squat analysis. END.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #50 ---
+Score: 4/5
+Reply: Normal squat with balanced bias.
+The main issue identified during the analysis is that the right arm did not extend properly, which was a problem that started to appear in the Descending phase but was later addressed by Bottom. Consistent technique was observed throughout the rest of the phases. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #51 ---
+Score: 5/5
+Reply: Deep squat with hips dominated bias.
+The analysis revealed no significant issues with technique, as posture and control remained consistent throughout all phases.
+Consistent technique was observed, indicating a solid foundation for further development. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #52 ---
+Score: 5/5
+Reply: Normal squat with balanced bias. The issue of legs being too wide first emerged during the Descending phase, only to be absent for a short period before reappearing in the Ascending phase. This recurring pattern suggests an ongoing challenge with maintaining proper width throughout the movement. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #53 ---
+Score: 5/5
+Reply: Deep squat with balanced bias. The main issue identified was a trunk position that was initially too forward, which persisted from the standing phase to the bottom of the squat, but was later corrected as the athlete progressed through the ascending phase. Consistent correction and refinement of this technique were key to resolving the issue. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #54 ---
+Score: 5/5
+Reply: Normal squat with knees dominated bias. The main issue observed was the persistent presence of arms not fully extending during the descent phase, which was a consistent problem throughout both phases. This suggests that proper arm extension technique may require additional attention to address. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #55 ---
+Score: 4/5
+Reply: Deep squat with neutral bias.
+The main issue identified was legs too narrow, which was initially present at the bottom position but was addressed during the ascending phase of training. Consistent technique was maintained throughout the analysis, indicating a solid foundation for further development. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #56 ---
+Score: 5/5
+Reply: Normal squat with hips dominated bias. The main issue observed was a trunk that remained too upright throughout the movement, starting from the standing position and persisting as the lifter ascended. This consistent technique flaw indicates a need for attention to maintaining a neutral spine position during the entire squat range of motion. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #57 ---
+Score: 4/5
+Reply: Deep squat with balanced bias.
+The analysis revealed no significant deviations from the desired technique, with consistent posture and control throughout all phases. The athlete's ability to maintain a balanced position was particularly noteworthy, indicating a strong foundation for further development. END.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #58 ---
+Score: 4/5
+Reply: Normal squat with balanced bias.
+The main issue identified was a legs too wide position, which was present from the initial standing phase and carried over into the descending phase. This issue was addressed during the bottom phase of the movement. 
+END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #59 ---
+Score: 5/5
+Reply: Deep squat with knees dominated bias. The main issue observed during the analysis is that the arms were often positioned too high at the bottom of the movement, which may affect overall stability and control. This tendency to elevate the arms was present across different phases of the squat. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #60 ---
+Score: 5/5
+Reply: Normal squat with hips dominated bias. The main issue identified was a trunk position that moved too forward, which started at the bottom of the movement and continued as the lifter ascended. This consistent deviation from proper technique indicates a need for attention to maintaining a neutral spine position throughout the entire range of motion. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #61 ---
+Score: 4/5
+Reply: Deep squat with balanced bias. The main issues observed were legs too narrow, which started in the standing phase and continued into ascending, and arms not fully extending during descending, which was addressed by correction at the bottom of the movement. Consistent technique was maintained throughout all phases of the squat analysis. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #62 ---
+Score: 4/5
+Reply: Normal squat with neutral bias.
+The analysis revealed no significant issues, with consistent technique and good posture throughout all phases. The athlete demonstrated effective control of the weight, showcasing a well-executed normal squat.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #63 ---
+Score: 5/5
+Reply: Deep squat with balanced bias.
+The main issue identified was trunk uprightness, which initially manifested in the standing position but was later addressed during the descending phase of training. Consistent technique was observed throughout the analysis, indicating a well-executed squat pattern. 
+END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #64 ---
+Score: 4/5
+Reply: Normal squat with knees dominated bias. The main issue observed was the persistent failure to extend the left arm, which first appeared during the descending phase of the movement. This consistent lack of arm extension is a notable concern that warrants further attention. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #65 ---
+Score: 4/5
+Reply: Deep squat with hips dominated bias. The main issue observed was legs too wide, which initially presented at the bottom phase and continued throughout the ascending phase. Consistent technique was maintained across all phases of the squat analysis. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #66 ---
+Score: 5/5
+Reply: Normal squat with balanced bias.
+The main issue observed during the analysis is a trunk position that tends to move forward initially, which can affect overall stability and control throughout the movement. This tendency to have a forward trunk position persists across different phases of the squat. 
+END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #67 ---
+Score: 4/5
+Reply: Deep squat with balanced bias.
+The analysis revealed no significant deviations from ideal technique, with consistent posture and control throughout all phases. The athlete's ability to maintain a balanced position was particularly noteworthy. END.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #68 ---
+Score: 5/5
+Reply: Normal squat with hips dominated bias. The main issue observed was the persistent failure to extend arms fully, which started during the standing phase and continued into the ascending phase of the movement. This consistent technique flaw indicates a need for attention on proper arm positioning throughout the entire squat. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #69 ---
+Score: 4/5
+Reply: Deep squat with knees dominated bias. The main issue identified is the legs being too narrow, which was initially observed in the Descending phase but later addressed by Bottom. Consistent technique has been maintained throughout the analysis period. END.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #70 ---
+Score: 5/5
+Reply: Normal squat with neutral bias.
+The main issue identified was a trunk that remained too upright throughout the movement, which was initially present from standing to bottom position but was later addressed during the ascending phase. This issue impacted the overall technique of the squat. 
+END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #71 ---
+Score: 3/5
+Reply: Deep squat with balanced bias.
+The main issue observed during the analysis is that arms tend to rise above parallel position during the ascending phase of the squat movement. This phenomenon, known as "arms too high," has been present intermittently throughout the training phases.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #72 ---
+Score: 4/5
+Reply: Normal squat with balanced bias.
+The analysis revealed no significant deviations from optimal technique, with consistent posture and control throughout all phases. The athlete's ability to maintain a balanced position throughout the entire range of motion was particularly noteworthy. END.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #73 ---
+Score: 4/5
+Reply: Deep squat with hips dominated bias. The main issue observed was legs too wide, which initially presented in the standing position and continued into the ascending phase of the movement. This consistent deviation from proper technique indicates a need for attention to hip positioning during the squat. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #74 ---
+Score: 5/5
+Reply: Normal squat with knees dominated bias. The main issue observed was a trunk that was too forward, which first appeared during the Descending phase and continued into the Ascending phase. This consistent deviation from proper technique indicates a need for attention to maintaining a neutral spine position throughout the squat movement. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #75 ---
+Score: 4/5
+Reply: Deep squat with balanced bias.
+The main issue observed was the right arm being too high, which was initially present in the standing position but resolved upon transitioning to descending. No other significant issues were noted throughout the analysis. 
+END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #76 ---
+Score: 3/5
+Reply: Normal squat with hips dominated bias. The main issues identified were legs too narrow, which was present throughout the entire analysis, and arms not fully extending, which was also consistent across both phases of the squat. These consistent issues suggest a need for attention to proper positioning and movement patterns in the squat technique.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #77 ---
+Score: 4/5
+Reply: Deep squat with neutral bias.
+The analysis revealed no significant issues, with consistent posture and control throughout all phases. The athlete demonstrated a well-executed technique, showcasing their ability to maintain proper form under various conditions. END.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #78 ---
+Score: 5/5
+Reply: Normal squat with balanced bias.
+The main issue identified was a trunk that remained too upright throughout the movement, which was initially present from standing to descending phases but was later addressed by focusing on proper bottom position. Consistent correction of this issue is key to maintaining good technique. 
+END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #79 ---
+Score: 5/5
+Reply: Deep squat with knees dominated bias. The main issue observed during the analysis is the inconsistent extension of the arms, which initially appeared in the Descending phase, then disappeared temporarily, and finally reemerged in the Ascending phase. This inconsistency suggests a need for attention to arm positioning throughout the movement. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #80 ---
+Score: 4/5
+Reply: Normal squat with balanced bias. The main issue observed was legs too wide, which initially presented at the bottom phase and continued throughout the ascending phase. This consistent technique deviation indicates a need for attention to proper positioning during the descent. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #81 ---
+Score: 5/5
+Reply: Deep squat with hips dominated bias. The main issue identified was a trunk position that was too forward, which was initially present in the standing phase but later corrected during the descending phase of training. Consistent technique was maintained throughout the analysis period. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #82 ---
+Score: 4/5
+Reply: Normal squat with balanced bias.
+The analysis revealed no significant deviations from ideal technique, with consistent posture and control throughout all phases. Consistent technique was observed, indicating a strong foundation in squatting.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #83 ---
+Score: 4/5
+Reply: Deep squat with neutral bias.
+The main issue observed was the persistent failure to extend the left arm during the ascending phase, which has been present since standing. This suggests a consistent technique flaw that needs attention. 
+END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #84 ---
+Score: 4/5
+Reply: Normal squat with knees dominated bias. The main issue identified was legs too narrow, which initially appeared in the descending phase and continued into the bottom position before being addressed in the ascending phase. Consistent technique was maintained throughout all phases of the squat analysis. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #85 ---
+Score: 3/5
+Reply: Deep squat with balanced bias.
+The main issue observed during the analysis was a trunk that remained too upright throughout the movement, which had previously been present in the standing phase but resolved temporarily before reappearing in the bottom position. This issue was addressed as the athlete progressed through the ascending phase of the squat. Consistent technique was maintained across all phases, with no other notable issues identified.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #86 ---
+Score: 5/5
+Reply: Normal squat with hips dominated bias.
+The main issue observed was arms being too high during the descent, which was a consistent problem throughout both phases of training. This indicates a need to focus on proper arm positioning and control during the squat movement. 
+END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #87 ---
+Score: 4/5
+Reply: Deep squat with balanced bias.
+The analysis revealed no significant deviations from optimal technique, with consistent posture and control throughout all phases. The athlete's ability to maintain a balanced position throughout the entire range of motion was particularly notable. END.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #88 ---
+Score: 4/5
+Reply: Normal squat with balanced bias. The main issue identified was "Legs too wide", which initially manifested in the Standing phase but was later addressed during the Descending phase. Consistent technique was observed throughout the analysis, indicating a solid foundation for further development. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #89 ---
+Score: 5/5
+Reply: Deep squat with knees dominated bias. The main issue observed was the trunk being too forward, which started to manifest during the bottom position (Bottom) and continued into the ascending phase. This consistent deviation from proper technique indicates a need for attention to maintaining a neutral spine position throughout the movement. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #90 ---
+Score: 4/5
+Reply: Normal squat with hips dominated bias. The main issues observed were the persistent right arm extension at the bottom of the squat, indicating a need to focus on proper arm positioning, and an upright trunk throughout the entire movement, suggesting a need for improved posture control. Consistent technique was maintained in other aspects of the squat. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #91 ---
+Score: 4/5
+Reply: Deep squat with neutral bias.
+The main issue observed was legs too narrow, which started to appear during the standing phase and continued into the ascending phase. This indicates a potential problem with hip or knee positioning. 
+END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #92 ---
+Score: 4/5
+Reply: Normal squat with balanced bias.
+The analysis revealed no significant deviations from ideal technique, with consistent posture and control throughout all phases. The athlete's ability to maintain a balanced position was particularly noteworthy.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #93 ---
+Score: 5/5
+Reply: Deep squat with hips dominated bias. The main issue identified during the analysis is the inconsistent extension of the arms, which has been a recurring problem since the Descending phase, where it was initially observed, and later addressed by Bottom. Consistent arm extension is crucial for maintaining proper form in deep squats. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #94 ---
+Score: 5/5
+Reply: Normal squat with knees dominated bias. The main issue observed during the analysis is a trunk position that is too forward, which was present throughout the descending phase but then disappeared temporarily before reappearing in the ascending phase. This consistent deviation from proper technique indicates a need for attention to trunk positioning. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #95 ---
+Score: 4/5
+Reply: Deep squat with balanced bias. The main issue observed was legs too wide, which initially presented in the Descending phase and continued into the Ascending phase. This consistent deviation from proper technique indicates a need for attention to foot positioning during the squat movement. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #96 ---
+Score: 5/5
+Reply: Normal squat with balanced bias. The main issue identified was a trunk that remained too upright, which was initially observed in the standing position but later corrected during the descending phase of training. Consistent technique was maintained throughout the analysis, indicating effective correction and adaptation to the identified issue. END
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: PASS
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+
+=========================================
+Model: Phi-3.5-3.8B
+=========================================
+
+Average Quality Score: 3.42 / 5.00
+
+--- Pass Rate per Criterion ---
+- sentence_1_correct: 100.0%
+- sentence_count_ok: 51.6%
+- has_end_token: 0.0%
+- no_prescriptive_lang: 100.0%
+- is_factually_consistent: 90.5%
+
+--- Detailed Breakdown ---
+
+--- Prompt #2 ---
+Score: 3/5
+Reply: Normal squat with hips dominated bias, where the initial leg width was excessively broad causing imbalance that carried over into deeper phases of descent but ultimately rectified during execution at full depth to ensure proper form alignment and symmetry.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #3 ---
+Score: 4/5
+Reply: Deep squat with knees dominated bias, where trunk positioning was initially excessively forward during the descent phase but improved as corrective actions were taken throughout subsequent phases to ensure proper alignment. The main issue revolved around maintaining a neutral spine and pelvis orientation from start to finish of the movement sequence.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #4 ---
+Score: 3/5
+Reply: Normal squat with balanced bias, arms extending during the descent phase which continued into ascent indicating potential form inconsistency or muscle imbalance issues throughout execution.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #5 ---
+Score: 3/5
+Reply: Deep squat with neutral bias, where legs remained excessively narrow from the standing phase into ascension but were improved upon correction during ascent; trunk positioning initially overly vertical at bottom stage which then rectified through subsequent phases without further issues reported
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #6 ---
+Score: 3/5
+Reply: Normal squat with hips dominated bias shows a consistently maintained technique without any deviations from proper form or balance throughout all observed stages, indicating strong foundational strength in hip engagement.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #7 ---
+Score: 3/5
+Reply: Deep squat with balanced bias, where the issue of left arm extension during descent has been identified but successfully addressed through corrective measures at the bottom phase. The main concern revolved around maintaining proper form to ensure a consistent technique throughout all phases of the deep squat movement.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #8 ---
+Score: 4/5
+Reply: Normal squat with knees dominated bias; the trunk remained excessively upright throughout phases of standing to ascending, indicating a potential issue with maintaining proper form during these movements. The recurrence suggests difficulty stabilizing posture consistently across different stages of the exercise.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #9 ---
+Score: 3/5
+Reply: Deep squat with balanced bias, where the initial issue of legs being excessively wide was identified during both standing phases but successfully addressed as one ascended to correct form consistency throughout all stages.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #10 ---
+Score: 4/5
+Reply: Normal squat with hips dominated bias, where arms remained excessively elevated during both the descending phase of descent into full depth (36.2 cm) and throughout ascending back to standing position; this indicates a potential lack of proper upper body engagement or mobility issues that need addressing for balanced squat form.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #11 ---
+Score: 3/5
+Reply: Deep squat with balanced bias shows a maintained consistency in form, indicating no deviations from proper technique throughout different stages of execution.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #12 ---
+Score: 3/5
+Reply: Normal squat with neutral bias, where the issue of legs being excessively narrow was consistently observed from both standing to ascending phases without improvement over time.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #13 ---
+Score: 4/5
+Reply: Deep squat with knees dominated bias, where the trunk positioned excessively forwards from early onset to later phases of movement consistently posing a risk for improper form. The issue's presence throughout all stages suggests an ingrained habit that could lead to potential strain or injury if not addressed in future training sessions.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #14 ---
+Score: 2/5
+Reply: Normal squat with balanced bias, where the issue of right arm being initially elevated during descent has been addressed through corrective measures at the bottom phase to maintain proper form consistency.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #15 ---
+Score: 4/5
+Reply: Deep squat with hips dominated bias, where legs were excessively spread causing imbalance from the start to finish of movement; arms remained bent throughout indicating a lack of upper body engagement during descent. Consistent issues across phases highlighting potential stability and full-body coordination concerns.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #16 ---
+Score: 3/5
+Reply: Normal squat with balanced bias shows a maintained technique throughout all stages, indicating no deviations from proper form or balance during execution.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #17 ---
+Score: 3/5
+Reply: Deep squat with balanced bias shows a trunk that remained consistently upright throughout the exercise phases despite temporary absence during one phase; this indicates potential for improved core engagement to enhance form stability across all stages.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #18 ---
+Score: 4/5
+Reply: Normal squat with knees dominated bias, where arms were consistently failing to extend during the ascent phase across all depths tested up to a maximum of 34 cm. The issue indicates potential muscular imbalances or technique flaws affecting upper body position and stability throughout the movement's progression.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #19 ---
+Score: 3/5
+Reply: Deep squat with neutral bias, where the initial leg width issue during descent has been addressed for improved form consistency across phases.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #20 ---
+Score: 4/5
+Reply: Normal squat with hips dominated bias, where the trunk was excessively leaned forwards from standing to bottom position but improved ascent phase correction occurred. The main issue revolved around maintaining proper spinal alignment throughout different phases of the movement.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #21 ---
+Score: 3/5
+Reply: Deep squat with balanced bias shows a maintained consistency in form, indicating no deviations from proper technique throughout all observed stages.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #22 ---
+Score: 3/5
+Reply: Normal squat with balanced bias, where the issue of legs initially appearing too narrow was identified during both standing phase and descending into depth but ultimately rectified to maintain a consistent form throughout execution.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #23 ---
+Score: 3/5
+Reply: Deep squat with knees dominated bias, where arms remained excessively elevated from the start to ascend phases indicating a potential upper body tension issue affecting form consistency throughout executions.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #24 ---
+Score: 4/5
+Reply: Normal squat with hips dominated bias, where the trunk remained excessively upright during descent but improved through corrective measures at the bottom phase. The primary issue revolved around maintaining proper posture to ensure balanced muscle engagement and prevent undue stress on lower back structures.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #25 ---
+Score: 3/5
+Reply: Deep squat with balanced bias, where legs remained excessively wide from the standing phase to ascension causing potential imbalance, trunk positioned overly forward during descending into bottom compromising core engagement stability; consistent technique maintained throughout phases
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #26 ---
+Score: 4/5
+Reply: Normal squat with neutral bias shows a maintained consistency in technique, without any deviations from proper form or balance throughout all observed stages. The individual exhibited stable posture and reliable execution of movements during each phase.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #27 ---
+Score: 4/5
+Reply: Deep squat with balanced bias; arms initially extending during the descent phase but were later adjusted for proper form as indicated through corrective actions across phases. Consistent technique maintained despite minor issues requiring attention to ensure optimal execution of deep squats.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #28 ---
+Score: 3/5
+Reply: Normal squat with knees dominated bias, where the issue of legs being excessively narrow was consistently observed from both descending to ascending phases without improvement over time.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #29 ---
+Score: 4/5
+Reply: Deep squat with hips dominated bias, where the trunk initially leaned excessively forwards but improved through corrective measures during descension phases. The main issue revolved around maintaining proper spinal alignment to prevent forward tilt in deep squats.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #30 ---
+Score: 3/5
+Reply: Normal squat with balanced bias, where the issue of right arm extension was noted to persist from bottom position into ascension phase without any improvement over time. This indicates a potential focus or technique inconsistency during these critical phases of movement execution.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #31 ---
+Score: 3/5
+Reply: Deep squat with balanced bias shows a maintained consistency in form, indicating no deviations from proper technique throughout all observed stages.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #32 ---
+Score: 3/5
+Reply: Normal squat with hips dominated bias, where the issue of legs being excessively wide from start to finish was consistently observed across both standing and ascending phases without improvement over time.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #33 ---
+Score: 4/5
+Reply: Deep squat with knees dominated bias, where trunk remained excessively upright during the initial phase but was adjusted successfully as per corrective actions from subsequent phases. The main issue revolved around maintaining proper posture throughout descent and bottom positions before achieving correction in ascending movements.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #34 ---
+Score: 3/5
+Reply: Normal squat with neutral bias, where the main issue identified is arms extending prematurely during descent which has been addressed through correction techniques.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #35 ---
+Score: 4/5
+Reply: Deep squat with balanced bias; legs initially being overly narrow during the descending phase but corrected itself by ascending back to a proper width for consistent form throughout phases. No persistent issues were noted beyond this temporary variance requiring attention only at specific points of execution.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #36 ---
+Score: 3/5
+Reply: Normal squat with balanced bias shows a maintained consistency in technique, without any deviations from proper form or balance throughout all observed phases
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #37 ---
+Score: 4/5
+Reply: Deep squat with hips dominated bias, where the trunk positioned excessively forwards from early stages to ascension phases indicates a potential imbalance favoring hip flexion over proper depth control. This forward lean may compromise lower back engagement and overall stability during deep movements.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #38 ---
+Score: 4/5
+Reply: Normal squat with knees dominated bias, where the issue of arms being elevated above parallel during descent has been identified as a correction point from Phase to Phase through adjustments made under guidance (Ascending). The focus is on ensuring proper arm positioning throughout the movement for optimal form.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #39 ---
+Score: 3/5
+Reply: Deep squat with balanced bias, where legs remained excessively wide from the start of both standing and descending phases, alongside a trunk that stayed overly erect during ascending movements; consistent technique was maintained without notable issues throughout.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #40 ---
+Score: 3/5
+Reply: Normal squat with balanced bias, but the left arm positioning issue remained consistent throughout descending to ascending phases. The main concern is maintaining proper upper body alignment during movement progression.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #41 ---
+Score: 3/5
+Reply: Deep squat with neutral bias shows a maintained consistency in form, indicating no significant technique problems throughout different stages of execution.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #42 ---
+Score: 3/5
+Reply: Normal squat with hips dominated bias, where the issue of legs appearing too narrow during initial phases was identified but successfully addressed as one progresses to deeper depth levels like bottom position; technique correction ensured consistent form throughout different stages.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #43 ---
+Score: 4/5
+Reply: Deep squat with balanced bias, where the trunk initially leaned excessively forwards but correction through focus on proper form ensured technique remained consistent throughout phases. The main issue addressed involved maintaining a neutral spine to prevent forward tilt during execution of deep squats.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #44 ---
+Score: 4/5
+Reply: Normal squat with knees dominated bias; arms initially extending prematurely during the standing phase but corrected themselves as they returned to a more consistent form throughout ascending movements. The issue of arm extension timing has been addressed progressively for improved technique consistency.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #45 ---
+Score: 4/5
+Reply: Deep squat with balanced bias, where the issue of legs being excessively wide during both descending and ascending phases was consistently observed. This width could potentially affect stability and form throughout the movement's range.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #46 ---
+Score: 3/5
+Reply: Normal squat with hips dominated bias shows a consistently maintained technique without any deviations from proper form or balance throughout all observed phases, indicating strong foundational strength in hip engagement.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #47 ---
+Score: 3/5
+Reply: Deep squat with neutral bias, where the trunk remained excessively upright throughout both bottom positioning and ascension phases without any noted improvement or correction over time.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #48 ---
+Score: 4/5
+Reply: Normal squat with balanced bias, where the issue of arms remaining elevated during initial descent was identified but successfully addressed to maintain proper form throughout all phases. Consistent technique across standing, descending, and bottom positions indicates effective correction without further complications.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #49 ---
+Score: 4/5
+Reply: Deep squat with knees dominated bias, where legs were excessively narrow from the start to end of movement causing potential imbalance or strain on lower limbs; trunk positioning was also consistently too forward throughout phases which could lead to back stress and inefficient force transfer. Focus should be maintained on widening stance width for leg alignment stability, as well as correcting upper body posture during the squat descent phase.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #50 ---
+Score: 3/5
+Reply: Normal squat with balanced bias, where the issue of right arm extension during descent has been identified but successfully addressed through corrective measures at the bottom phase to maintain balance. The individual demonstrated a consistent technique throughout other phases without further issues reported.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #51 ---
+Score: 3/5
+Reply: Deep squat with hips dominated bias shows a maintained technique without biases throughout different stages, indicating stable form and execution.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #52 ---
+Score: 4/5
+Reply: Normal squat with balanced bias has a recurring issue of legs being positioned wider than optimal during the descent phase but correcting itself momentarily before resurfacing as problematic again towards ascension. This inconsistency suggests an intermittent struggle to maintain proper form throughout repetitions, potentially affecting stability and squat depth consistency.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #53 ---
+Score: 4/5
+Reply: Deep squat with balanced bias, where the trunk initially leaned excessively forwards but was successfully adjusted during progression from standing to bottom position. The main issue resolved involved correcting forward torso tilt throughout various phases of depth increase.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #54 ---
+Score: 4/5
+Reply: Normal squat with knees dominated bias, where arms were consistently retracted during the descent phase but remained straightened throughout ascent indicating a potential imbalance or lack of coordination between upper body positioning and lower limb movement. This could suggest an overemphasis on hip hinge mechanics at the expense of maintaining proper arm alignment, potentially affecting overall squat form stability.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #55 ---
+Score: 3/5
+Reply: Deep squat with neutral bias, where the initial issue of legs being excessively narrow at the bottom has been addressed through corrective measures during training phases to ensure proper form consistency.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #56 ---
+Score: 4/5
+Reply: Normal squat with hips dominated bias, where the trunk remained excessively upright from standing to ascending phases, indicating a potential imbalance favoring upper body over lower back engagement during descent. This could lead to inefficient force transfer and increased risk of injury if not addressed consistently throughout training sessions.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #57 ---
+Score: 3/5
+Reply: Deep squat with balanced bias shows a maintained consistency in form, indicating no deviations from proper technique throughout different stages of execution.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #58 ---
+Score: 3/5
+Reply: Normal squat with balanced bias, where the issue of legs initially positioned wider than optimal was identified during both standing phase and descending motion but successfully addressed to maintain technique consistency throughout execution.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #59 ---
+Score: 4/5
+Reply: Deep squat with knees dominated bias; arms consistently being elevated during the descent phase indicates a potential issue of upper body positioning affecting form stability throughout different phases. The recurring nature suggests it may require attention to ensure proper alignment and technique continuity from Descending through Ascending.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #60 ---
+Score: 4/5
+Reply: Normal squat with hips dominated bias, where the trunk positioned excessively forwards from early onset during both bottom phase and ascension, indicating a consistent issue throughout execution phases. This persistent anterior tilt may compromise form stability and depth achievement in subsequent repetitions without intervention
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #61 ---
+Score: 4/5
+Reply: Deep squat with balanced bias, where legs remained excessively narrow throughout the exercise phases without correction from arm position adjustments during descending phase. Consistent technique maintained despite minor issues of leg width consistency being observed across Standing to Ascending stages and corrected in Descending through proper arm extension alignment.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #62 ---
+Score: 3/5
+Reply: Normal squat with neutral bias shows a consistently maintained technique throughout all observed phases, indicating stable form without any deviations or biases affecting performance.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #63 ---
+Score: 4/5
+Reply: Deep squat with balanced bias, where the initial trunk position correction from standing to descending phase indicates a focus on maintaining proper posture throughout depth progression. The issue of an initially upright torso suggests attention towards spinal alignment during deepening phases for consistent form and safety.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #64 ---
+Score: 2/5
+Reply: Normal squat with knees dominated bias, where the issue of left arm extension was consistently observed during both descending and ascending phases without improvement over time.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #65 ---
+Score: 4/5
+Reply: Deep squat with hips dominated bias, where the issue of legs being excessively wide from start to finish was consistently observed across phases without improvement or correction noted. This persistent width may indicate a lack of mobility control during descent which could affect stability and depth achievement in subsequent sessions.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #66 ---
+Score: 4/5
+Reply: Normal squat with balanced bias exhibits a trunk position that initially moves excessively forwards during the descent phase but shows temporary correction before resurfacing as an issue upon ascension. The recurring forward tilt suggests potential instability or lack of core engagement throughout different phases, indicating room for technique refinement to ensure consistent form and safety.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #67 ---
+Score: 3/5
+Reply: Deep squat with balanced bias shows a maintained consistency in form, indicating no deviations from proper technique throughout various stages of execution.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #68 ---
+Score: 4/5
+Reply: Normal squat with hips dominated bias, where arms were consistently retracted during the descent phase across all stages of depth progression from standing to ascending positions. This retraction may indicate a reliance on hip flexion over proper upper body alignment and could potentially limit full range of motion or increase stress on lower back muscles if not addressed in training focuses.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #69 ---
+Score: 4/5
+Reply: Deep squat with knees dominated bias, where initial leg width issues were present but later addressed for improved form during the descending phase of execution. Consistent technique achieved through corrective measures ensured a more balanced biomechanical alignment in subsequent attempts.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #70 ---
+Score: 4/5
+Reply: Normal squat with neutral bias, where the trunk remained excessively upright during initial phases but was eventually rectified as part of corrective progression from standing to bottom position. The main issue revolved around maintaining proper posture throughout different stages; however, consistent improvement led to a corrected technique by ascending phase.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #71 ---
+Score: 3/5
+Reply: Deep squat with balanced bias shows a recurring issue of arms being elevated prematurely during the descent phase across different phases; this suggests inconsistency that may affect stability but is not present throughout all attempts as evidenced by temporary absence.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #72 ---
+Score: 3/5
+Reply: Normal squat with balanced bias shows a maintained consistency in technique, without any deviations from proper form or balance throughout all observed phases
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #73 ---
+Score: 4/5
+Reply: Deep squat with hips dominated bias, where the issue of legs being excessively wide from standing to ascending phase was consistently observed. This width may compromise form stability during deeper ranges.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #74 ---
+Score: 4/5
+Reply: Normal squat with knees dominated bias, where the trunk positioned excessively forwards during both descending and ascending phases indicates a potential imbalance affecting form consistency throughout the movement range. This forward lean may compromise lower back engagement and increase stress on hip flexors over time if not addressed within training routines.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #75 ---
+Score: 3/5
+Reply: Deep squat with balanced bias, where the issue of right arm being initially elevated above parallel during descent has been addressed through corrective adjustments to maintain proper form throughout the movement phase. Consistent technique is maintained as no further issues were reported post-correction.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #76 ---
+Score: 3/5
+Reply: Normal squat with hips dominated bias, where legs were consistently narrower than ideal throughout the descent phase leading to potential imbalance or reduced range of motion issues; arms remained improperly positioned during ascent from bottom outwards affecting upper body stability and form.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #77 ---
+Score: 3/5
+Reply: Deep squat with neutral bias shows a maintained consistency in form, indicating no significant technique problems throughout different stages of execution.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #78 ---
+Score: 4/5
+Reply: Normal squat with balanced bias, where the trunk remained excessively upright during both standing and descending phases but was ultimately rectified at the bottom position to maintain balance. The primary issue revolved around correcting an initial postural imbalance that could affect overall form stability throughout the movement sequence.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #79 ---
+Score: 4/5
+Reply: Deep squat with knees dominated bias; arms extending inconsistently throughout the descent phase posed a technique issue that fluctuated between absence to presence during repetitions. This suggests an area for focus on maintaining consistent arm positioning across all phases of execution.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #80 ---
+Score: 4/5
+Reply: Normal squat with balanced bias, but issues of legs being excessively wide at the bottom were noted to persist throughout various phases including descending into depth (Bottom) and ascending back up (Ascending). This consistent width may affect stability and form during repetitions.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #81 ---
+Score: 4/5
+Reply: Deep squat with hips dominated bias, where the trunk initially leaned excessively forwards but improved through corrective measures during descending phase. The main issue revolved around maintaining proper spinal alignment to prevent forward tilt in deep squats.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #82 ---
+Score: 3/5
+Reply: Normal squat with balanced bias shows a maintained technique throughout all stages, indicating no deviations from proper form or balance during execution.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #83 ---
+Score: 2/5
+Reply: Deep squat with neutral bias, where the main issue was a persistent left arm extension during both standing and ascending phases without any noted improvement or correction over time.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #84 ---
+Score: 3/5
+Reply: Normal squat with knees dominated bias, where the issue of legs appearing too narrow during descent was identified but successfully addressed as it progressed from bottom to ascending phase without further complications
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #85 ---
+Score: 3/5
+Reply: Deep squat with balanced bias shows a trunk initially remaining overly vertical during the ascent phase but corrects itself through progression to maintain proper form consistently across phases.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #86 ---
+Score: 4/5
+Reply: Normal squat with hips dominated bias, where arms remained excessively elevated during both the descending phase of descent into full depth (37.2 cm) and throughout ascending back to standing position; this indicates a potential lack of proper upper body engagement or mobility issues affecting arm alignment in relation to squat mechanics.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #87 ---
+Score: 3/5
+Reply: Deep squat with balanced bias shows a maintained consistency in form, indicating no deviations from proper technique throughout all observed stages.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #88 ---
+Score: 3/5
+Reply: Normal squat with balanced bias, where the initial leg width issue during descent has been addressed for improved form consistency across phases.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #89 ---
+Score: 4/5
+Reply: Deep squat with knees dominated bias, where the trunk positioned excessively forwards from early onset to later phases of movement consistently posing a challenge. The persistent issue across all stages indicates potential imbalances or lack of core engagement during execution.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #90 ---
+Score: 2/5
+Reply: Normal squat with hips dominated bias, where the right arm remained bent during descent causing asymmetry, and trunk positioning was excessively vertical from ascension to bottom phase indicating potential core stability issues.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: FAIL
+
+--- Prompt #91 ---
+Score: 3/5
+Reply: Deep squat with neutral bias, where the issue of legs being excessively narrow was consistently observed from both standing to ascending phases without improvement over time.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #92 ---
+Score: 3/5
+Reply: Normal squat with balanced bias shows a maintained technique throughout all stages, indicating no deviations from proper form or balance during execution.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #93 ---
+Score: 4/5
+Reply: Deep squat with hips dominated bias, where arms were initially improperly positioned during the descent phase but adjustments led to correct arm extension for improved form. The main issue addressed involved ensuring proper upper body alignment throughout the movement's lowering phase.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #94 ---
+Score: 4/5
+Reply: Normal squat with knees dominated bias; the trunk positioned excessively forward during both descending and ascending phases of the movement cycle, indicating a potential imbalance or lack of core engagement to maintain proper posture throughout the exercise. This recurring issue suggests that attention should be focused on correcting this anterior tilt for improved squat form consistency.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #95 ---
+Score: 4/5
+Reply: Deep squat with balanced bias, where the issue of legs being excessively wide during both descending and ascending phases was consistently observed. This width could potentially affect stability and form throughout the movement's range.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: PASS
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+--- Prompt #96 ---
+Score: 3/5
+Reply: Normal squat with balanced bias, where the main issue identified is an initial trunk posture that leaned excessively forward but has been successfully addressed through corrective movement during descent.
+Checks:
+  - sentence_1_correct: PASS
+  - sentence_count_ok: FAIL
+  - has_end_token: FAIL
+  - no_prescriptive_lang: PASS
+  - is_factually_consistent: PASS
+
+
+=========================================
+           FINAL SUMMARY
+=========================================
+
+Llama3.2-3B-Q4_S: 4.52 / 5.00
+Llama3.2-3B-Q4_M: 4.33 / 5.00
+Phi-3.5-3.8B: 3.42 / 5.00
+Qwen-1.5B: 3.21 / 5.00

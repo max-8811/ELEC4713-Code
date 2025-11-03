@@ -1,0 +1,776 @@
+--- Performance Stats for Model: testphicoach ---
+
+--- Prompt #1 ---
+Response Time: 8.8196 seconds
+Tokens per Second: 3.86
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:02:16.3440506Z","message":{"role":"assistant","content":"Deep squat with balanced bias shows a maintained consistency in technique, indicating no significant deviations or corrective actions needed throughout different stages of execution."},"done_reason":"stop","done":true,"total_duration":6751792900,"load_duration":5496613100,"prompt_eval_count":457,"prompt_eval_duration":162913000,"eval_count":34,"eval_duration":1089895600}
+
+--------------------------------------------------
+
+--- Prompt #2 ---
+Response Time: 3.1490 seconds
+Tokens per Second: 15.88
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:02:19.4932274Z","message":{"role":"assistant","content":"Normal squat with hips dominated bias, where the initial leg width was excessively broad causing imbalance that carried over into deeper phases of descent but ultimately rectified during execution at full depth to ensure proper form alignment and symmetry."},"done_reason":"stop","done":true,"total_duration":1083738200,"load_duration":14249500,"prompt_eval_count":464,"prompt_eval_duration":8173700,"eval_count":50,"eval_duration":1059747300}
+
+--------------------------------------------------
+
+--- Prompt #3 ---
+Response Time: 3.4948 seconds
+Tokens per Second: 19.74
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:02:22.9881189Z","message":{"role":"assistant","content":"Deep squat with knees dominated bias, where trunk positioning was initially excessively forward during the descent phase but improved as corrective actions were taken throughout subsequent phases to ensure proper alignment. The main issue revolved around maintaining a neutral spine and pelvis orientation from start to finish of the movement sequence. "},"done_reason":"stop","done":true,"total_duration":1451473500,"load_duration":14341900,"prompt_eval_count":467,"prompt_eval_duration":13999500,"eval_count":69,"eval_duration":1421056400}
+
+--------------------------------------------------
+
+--- Prompt #4 ---
+Response Time: 2.9286 seconds
+Tokens per Second: 12.98
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:02:25.9169199Z","message":{"role":"assistant","content":"Normal squat with balanced bias, arms extending during the descent phase which continued into ascent indicating potential form inconsistency or muscle imbalance issues throughout execution. "},"done_reason":"stop","done":true,"total_duration":873388100,"load_duration":14773800,"prompt_eval_count":456,"prompt_eval_duration":8196700,"eval_count":38,"eval_duration":848852200}
+
+--------------------------------------------------
+
+--- Prompt #5 ---
+Response Time: 3.2250 seconds
+Tokens per Second: 17.05
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:02:29.1419902Z","message":{"role":"assistant","content":"Deep squat with neutral bias, where legs remained excessively narrow from the standing phase into ascension but were improved upon correction during ascent; trunk positioning initially overly vertical at bottom stage which then rectified through subsequent phases without further issues reported "},"done_reason":"stop","done":true,"total_duration":1192817400,"load_duration":13785100,"prompt_eval_count":473,"prompt_eval_duration":13494400,"eval_count":55,"eval_duration":1163465300}
+
+--------------------------------------------------
+
+--- Prompt #6 ---
+Response Time: 2.9577 seconds
+Tokens per Second: 13.86
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:02:32.0998509Z","message":{"role":"assistant","content":"Normal squat with hips dominated bias shows a consistently maintained technique without any deviations from proper form or balance throughout all observed stages, indicating strong foundational strength in hip engagement."},"done_reason":"stop","done":true,"total_duration":920951000,"load_duration":14339100,"prompt_eval_count":460,"prompt_eval_duration":6640200,"eval_count":41,"eval_duration":898414200}
+
+--------------------------------------------------
+
+--- Prompt #7 ---
+Response Time: 3.3174 seconds
+Tokens per Second: 18.39
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:02:35.4173993Z","message":{"role":"assistant","content":"Deep squat with balanced bias, where the issue of left arm extension during descent has been identified but successfully addressed through corrective measures at the bottom phase. The main concern revolved around maintaining proper form to ensure a consistent technique throughout all phases of the deep squat movement. "},"done_reason":"stop","done":true,"total_duration":1268313400,"load_duration":14287500,"prompt_eval_count":455,"prompt_eval_duration":6698100,"eval_count":61,"eval_duration":1245752900}
+
+--------------------------------------------------
+
+--- Prompt #8 ---
+Response Time: 3.3452 seconds
+Tokens per Second: 17.94
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:02:38.7627299Z","message":{"role":"assistant","content":"Normal squat with knees dominated bias; the trunk remained excessively upright throughout phases of standing to ascending, indicating a potential issue with maintaining proper form during these movements. The recurrence suggests difficulty stabilizing posture consistently across different stages of the exercise."},"done_reason":"stop","done":true,"total_duration":1309322200,"load_duration":14327000,"prompt_eval_count":476,"prompt_eval_duration":7314900,"eval_count":60,"eval_duration":1285609800}
+
+--------------------------------------------------
+
+--- Prompt #9 ---
+Response Time: 3.0068 seconds
+Tokens per Second: 14.30
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:02:41.7696771Z","message":{"role":"assistant","content":"Deep squat with balanced bias, where the initial issue of legs being excessively wide was identified during both standing phases but successfully addressed as one ascended to correct form consistency throughout all stages."},"done_reason":"stop","done":true,"total_duration":971439900,"load_duration":15379100,"prompt_eval_count":461,"prompt_eval_duration":8987300,"eval_count":43,"eval_duration":945511100}
+
+--------------------------------------------------
+
+--- Prompt #10 ---
+Response Time: 3.5586 seconds
+Tokens per Second: 20.79
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:02:45.3284225Z","message":{"role":"assistant","content":"Normal squat with hips dominated bias, where arms remained excessively elevated during both the descending phase of descent into full depth (36.2 cm) and throughout ascending back to standing position; this indicates a potential lack of proper upper body engagement or mobility issues that need addressing for balanced squat form.\n"},"done_reason":"stop","done":true,"total_duration":1500033300,"load_duration":14330400,"prompt_eval_count":459,"prompt_eval_duration":7670600,"eval_count":74,"eval_duration":1475661700}
+
+--------------------------------------------------
+
+--- Prompt #11 ---
+Response Time: 2.7946 seconds
+Tokens per Second: 11.09
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:02:48.1230316Z","message":{"role":"assistant","content":"Deep squat with balanced bias shows a maintained consistency in form, indicating no deviations from proper technique throughout different stages of execution."},"done_reason":"stop","done":true,"total_duration":747728300,"load_duration":14936100,"prompt_eval_count":457,"prompt_eval_duration":8181600,"eval_count":31,"eval_duration":723069500}
+
+--------------------------------------------------
+
+--- Prompt #12 ---
+Response Time: 2.8537 seconds
+Tokens per Second: 11.91
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:02:50.9769176Z","message":{"role":"assistant","content":"Normal squat with neutral bias, where the issue of legs being excessively narrow was consistently observed from both standing to ascending phases without improvement over time."},"done_reason":"stop","done":true,"total_duration":811746400,"load_duration":15508300,"prompt_eval_count":454,"prompt_eval_duration":7675800,"eval_count":34,"eval_duration":786512500}
+
+--------------------------------------------------
+
+--- Prompt #13 ---
+Response Time: 3.5420 seconds
+Tokens per Second: 20.61
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:02:54.5189864Z","message":{"role":"assistant","content":"Deep squat with knees dominated bias, where the trunk positioned excessively forwards from early onset to later phases of movement consistently posing a risk for improper form. The issue's presence throughout all stages suggests an ingrained habit that could lead to potential strain or injury if not addressed in future training sessions."},"done_reason":"stop","done":true,"total_duration":1499156300,"load_duration":14493500,"prompt_eval_count":460,"prompt_eval_duration":11423700,"eval_count":73,"eval_duration":1471664300}
+
+--------------------------------------------------
+
+--- Prompt #14 ---
+Response Time: 2.9496 seconds
+Tokens per Second: 13.56
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:02:57.4687968Z","message":{"role":"assistant","content":"Normal squat with balanced bias, where the issue of right arm being initially elevated during descent has been addressed through corrective measures at the bottom phase to maintain proper form consistency."},"done_reason":"stop","done":true,"total_duration":912655100,"load_duration":14914400,"prompt_eval_count":455,"prompt_eval_duration":6666700,"eval_count":40,"eval_duration":889540600}
+
+--------------------------------------------------
+
+--- Prompt #15 ---
+Response Time: 3.4084 seconds
+Tokens per Second: 18.48
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:03:00.8774361Z","message":{"role":"assistant","content":"Deep squat with hips dominated bias, where legs were excessively spread causing imbalance from the start to finish of movement; arms remained bent throughout indicating a lack of upper body engagement during descent. Consistent issues across phases highlighting potential stability and full-body coordination concerns."},"done_reason":"stop","done":true,"total_duration":1338326100,"load_duration":14906900,"prompt_eval_count":475,"prompt_eval_duration":8659300,"eval_count":63,"eval_duration":1313225700}
+
+--------------------------------------------------
+
+--- Prompt #16 ---
+Response Time: 2.7898 seconds
+Tokens per Second: 10.40
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:03:03.6673102Z","message":{"role":"assistant","content":"Normal squat with balanced bias shows a maintained technique throughout all stages, indicating no deviations from proper form or balance during execution."},"done_reason":"stop","done":true,"total_duration":718181900,"load_duration":14898900,"prompt_eval_count":457,"prompt_eval_duration":7647500,"eval_count":29,"eval_duration":693564100}
+
+--------------------------------------------------
+
+--- Prompt #17 ---
+Response Time: 3.1447 seconds
+Tokens per Second: 15.58
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:03:06.8119234Z","message":{"role":"assistant","content":"Deep squat with balanced bias shows a trunk that remained consistently upright throughout the exercise phases despite temporary absence during one phase; this indicates potential for improved core engagement to enhance form stability across all stages."},"done_reason":"stop","done":true,"total_duration":1094210300,"load_duration":18157000,"prompt_eval_count":471,"prompt_eval_duration":9706300,"eval_count":49,"eval_duration":1064300000}
+
+--------------------------------------------------
+
+--- Prompt #18 ---
+Response Time: 3.5041 seconds
+Tokens per Second: 19.69
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:03:10.3163383Z","message":{"role":"assistant","content":"Normal squat with knees dominated bias, where arms were consistently failing to extend during the ascent phase across all depths tested up to a maximum of 34 cm. The issue indicates potential muscular imbalances or technique flaws affecting upper body position and stability throughout the movement's progression. "},"done_reason":"stop","done":true,"total_duration":1422162700,"load_duration":14756800,"prompt_eval_count":460,"prompt_eval_duration":8690100,"eval_count":69,"eval_duration":1397179300}
+
+--------------------------------------------------
+
+--- Prompt #19 ---
+Response Time: 2.7663 seconds
+Tokens per Second: 10.48
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:03:13.0829456Z","message":{"role":"assistant","content":"Deep squat with neutral bias, where the initial leg width issue during descent has been addressed for improved form consistency across phases."},"done_reason":"stop","done":true,"total_duration":713119700,"load_duration":14476200,"prompt_eval_count":454,"prompt_eval_duration":8067700,"eval_count":29,"eval_duration":689041200}
+
+--------------------------------------------------
+
+--- Prompt #20 ---
+Response Time: 3.2261 seconds
+Tokens per Second: 17.36
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:03:16.3091723Z","message":{"role":"assistant","content":"Normal squat with hips dominated bias, where the trunk was excessively leaned forwards from standing to bottom position but improved ascent phase correction occurred. The main issue revolved around maintaining proper spinal alignment throughout different phases of the movement. "},"done_reason":"stop","done":true,"total_duration":1191107600,"load_duration":14857000,"prompt_eval_count":464,"prompt_eval_duration":8161800,"eval_count":56,"eval_duration":1166557300}
+
+--------------------------------------------------
+
+--- Prompt #21 ---
+Response Time: 2.7731 seconds
+Tokens per Second: 10.82
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:03:19.0824889Z","message":{"role":"assistant","content":"Deep squat with balanced bias shows a maintained consistency in form, indicating no deviations from proper technique throughout all observed stages."},"done_reason":"stop","done":true,"total_duration":738050500,"load_duration":16926500,"prompt_eval_count":457,"prompt_eval_duration":7138900,"eval_count":30,"eval_duration":712456100}
+
+--------------------------------------------------
+
+--- Prompt #22 ---
+Response Time: 2.9859 seconds
+Tokens per Second: 14.07
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:03:22.0685613Z","message":{"role":"assistant","content":"Normal squat with balanced bias, where the issue of legs initially appearing too narrow was identified during both standing phase and descending into depth but ultimately rectified to maintain a consistent form throughout execution."},"done_reason":"stop","done":true,"total_duration":943614600,"load_duration":14893100,"prompt_eval_count":461,"prompt_eval_duration":6140700,"eval_count":42,"eval_duration":920535600}
+
+--------------------------------------------------
+
+--- Prompt #23 ---
+Response Time: 3.0194 seconds
+Tokens per Second: 14.57
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:03:25.0882765Z","message":{"role":"assistant","content":"Deep squat with knees dominated bias, where arms remained excessively elevated from the start to ascend phases indicating a potential upper body tension issue affecting form consistency throughout executions."},"done_reason":"stop","done":true,"total_duration":978585700,"load_duration":14883400,"prompt_eval_count":460,"prompt_eval_duration":8679400,"eval_count":44,"eval_duration":953485300}
+
+--------------------------------------------------
+
+--- Prompt #24 ---
+Response Time: 3.4002 seconds
+Tokens per Second: 19.12
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:03:28.4885412Z","message":{"role":"assistant","content":"Normal squat with hips dominated bias, where the trunk remained excessively upright during descent but improved through corrective measures at the bottom phase. The primary issue revolved around maintaining proper posture to ensure balanced muscle engagement and prevent undue stress on lower back structures. "},"done_reason":"stop","done":true,"total_duration":1373851200,"load_duration":14408200,"prompt_eval_count":460,"prompt_eval_duration":8156800,"eval_count":65,"eval_duration":1349755400}
+
+--------------------------------------------------
+
+--- Prompt #25 ---
+Response Time: 3.2386 seconds
+Tokens per Second: 16.98
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:03:31.7272399Z","message":{"role":"assistant","content":"Deep squat with balanced bias, where legs remained excessively wide from the standing phase to ascension causing potential imbalance, trunk positioned overly forward during descending into bottom compromising core engagement stability; consistent technique maintained throughout phases "},"done_reason":"stop","done":true,"total_duration":1204933000,"load_duration":15405700,"prompt_eval_count":472,"prompt_eval_duration":14347000,"eval_count":55,"eval_duration":1173645300}
+
+--------------------------------------------------
+
+--- Prompt #26 ---
+Response Time: 3.0846 seconds
+Tokens per Second: 15.24
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:03:34.8120163Z","message":{"role":"assistant","content":"Normal squat with neutral bias shows a maintained consistency in technique, without any deviations from proper form or balance throughout all observed stages. The individual exhibited stable posture and reliable execution of movements during each phase. "},"done_reason":"stop","done":true,"total_duration":1031969500,"load_duration":14344500,"prompt_eval_count":456,"prompt_eval_duration":7154500,"eval_count":47,"eval_duration":1008875100}
+
+--------------------------------------------------
+
+--- Prompt #27 ---
+Response Time: 3.2056 seconds
+Tokens per Second: 16.85
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:03:38.017412Z","message":{"role":"assistant","content":"Deep squat with balanced bias; arms initially extending during the descent phase but were later adjusted for proper form as indicated through corrective actions across phases. Consistent technique maintained despite minor issues requiring attention to ensure optimal execution of deep squats. "},"done_reason":"stop","done":true,"total_duration":1159607200,"load_duration":13982600,"prompt_eval_count":468,"prompt_eval_duration":6652800,"eval_count":54,"eval_duration":1136896800}
+
+--------------------------------------------------
+
+--- Prompt #28 ---
+Response Time: 2.9372 seconds
+Tokens per Second: 12.94
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:03:40.95496Z","message":{"role":"assistant","content":"Normal squat with knees dominated bias, where the issue of legs being excessively narrow was consistently observed from both descending to ascending phases without improvement over time."},"done_reason":"stop","done":true,"total_duration":877884100,"load_duration":15413800,"prompt_eval_count":461,"prompt_eval_duration":7151900,"eval_count":38,"eval_duration":853778900}
+
+--------------------------------------------------
+
+--- Prompt #29 ---
+Response Time: 3.2705 seconds
+Tokens per Second: 17.73
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:03:44.22555Z","message":{"role":"assistant","content":"Deep squat with hips dominated bias, where the trunk initially leaned excessively forwards but improved through corrective measures during descension phases. The main issue revolved around maintaining proper spinal alignment to prevent forward tilt in deep squats. "},"done_reason":"stop","done":true,"total_duration":1222316100,"load_duration":14317000,"prompt_eval_count":458,"prompt_eval_duration":7650600,"eval_count":58,"eval_duration":1198262200}
+
+--------------------------------------------------
+
+--- Prompt #30 ---
+Response Time: 3.1869 seconds
+Tokens per Second: 16.63
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:03:47.4126239Z","message":{"role":"assistant","content":"Normal squat with balanced bias, where the issue of right arm extension was noted to persist from bottom position into ascension phase without any improvement over time. This indicates a potential focus or technique inconsistency during these critical phases of movement execution. "},"done_reason":"stop","done":true,"total_duration":1136954000,"load_duration":14864600,"prompt_eval_count":455,"prompt_eval_duration":7655600,"eval_count":53,"eval_duration":1112904500}
+
+--------------------------------------------------
+
+--- Prompt #31 ---
+Response Time: 2.7963 seconds
+Tokens per Second: 10.73
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:03:50.2091271Z","message":{"role":"assistant","content":"Deep squat with balanced bias shows a maintained consistency in form, indicating no deviations from proper technique throughout all observed stages."},"done_reason":"stop","done":true,"total_duration":733031400,"load_duration":15021500,"prompt_eval_count":457,"prompt_eval_duration":8163800,"eval_count":30,"eval_duration":708319100}
+
+--------------------------------------------------
+
+--- Prompt #32 ---
+Response Time: 2.9612 seconds
+Tokens per Second: 13.85
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:03:53.1705478Z","message":{"role":"assistant","content":"Normal squat with hips dominated bias, where the issue of legs being excessively wide from start to finish was consistently observed across both standing and ascending phases without improvement over time."},"done_reason":"stop","done":true,"total_duration":925442900,"load_duration":14860500,"prompt_eval_count":458,"prompt_eval_duration":7644900,"eval_count":41,"eval_duration":901385000}
+
+--------------------------------------------------
+
+--- Prompt #33 ---
+Response Time: 3.4167 seconds
+Tokens per Second: 19.32
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:03:56.5872024Z","message":{"role":"assistant","content":"Deep squat with knees dominated bias, where trunk remained excessively upright during the initial phase but was adjusted successfully as per corrective actions from subsequent phases. The main issue revolved around maintaining proper posture throughout descent and bottom positions before achieving correction in ascending movements. "},"done_reason":"stop","done":true,"total_duration":1375385200,"load_duration":14312700,"prompt_eval_count":469,"prompt_eval_duration":6633500,"eval_count":66,"eval_duration":1352371100}
+
+--------------------------------------------------
+
+--- Prompt #34 ---
+Response Time: 2.8047 seconds
+Tokens per Second: 11.05
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:03:59.3921734Z","message":{"role":"assistant","content":"Normal squat with neutral bias, where the main issue identified is arms extending prematurely during descent which has been addressed through correction techniques. "},"done_reason":"stop","done":true,"total_duration":743815600,"load_duration":13821300,"prompt_eval_count":454,"prompt_eval_duration":7065200,"eval_count":31,"eval_duration":721350200}
+
+--------------------------------------------------
+
+--- Prompt #35 ---
+Response Time: 3.2802 seconds
+Tokens per Second: 17.68
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:04:02.672453Z","message":{"role":"assistant","content":"Deep squat with balanced bias; legs initially being overly narrow during the descending phase but corrected itself by ascending back to a proper width for consistent form throughout phases. No persistent issues were noted beyond this temporary variance requiring attention only at specific points of execution. "},"done_reason":"stop","done":true,"total_duration":1223528700,"load_duration":14367000,"prompt_eval_count":463,"prompt_eval_duration":7635000,"eval_count":58,"eval_duration":1199453000}
+
+--------------------------------------------------
+
+--- Prompt #36 ---
+Response Time: 2.8360 seconds
+Tokens per Second: 10.93
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:04:05.5086023Z","message":{"role":"assistant","content":"Normal squat with balanced bias shows a maintained consistency in technique, without any deviations from proper form or balance throughout all observed phases "},"done_reason":"stop","done":true,"total_duration":745780800,"load_duration":14000000,"prompt_eval_count":457,"prompt_eval_duration":6635600,"eval_count":31,"eval_duration":723078900}
+
+--------------------------------------------------
+
+--- Prompt #37 ---
+Response Time: 3.3735 seconds
+Tokens per Second: 18.97
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:04:08.8821852Z","message":{"role":"assistant","content":"Deep squat with hips dominated bias, where the trunk positioned excessively forwards from early stages to ascension phases indicates a potential imbalance favoring hip flexion over proper depth control. This forward lean may compromise lower back engagement and overall stability during deep movements. "},"done_reason":"stop","done":true,"total_duration":1329210900,"load_duration":14358400,"prompt_eval_count":458,"prompt_eval_duration":7645300,"eval_count":64,"eval_duration":1305663900}
+
+--------------------------------------------------
+
+--- Prompt #38 ---
+Response Time: 3.4423 seconds
+Tokens per Second: 19.17
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:04:12.3245176Z","message":{"role":"assistant","content":"Normal squat with knees dominated bias, where the issue of arms being elevated above parallel during descent has been identified as a correction point from Phase to Phase through adjustments made under guidance (Ascending). The focus is on ensuring proper arm positioning throughout the movement for optimal form. "},"done_reason":"stop","done":true,"total_duration":1371107300,"load_duration":14363200,"prompt_eval_count":460,"prompt_eval_duration":8178400,"eval_count":66,"eval_duration":1347001500}
+
+--------------------------------------------------
+
+--- Prompt #39 ---
+Response Time: 3.2234 seconds
+Tokens per Second: 16.13
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:04:15.548106Z","message":{"role":"assistant","content":"Deep squat with balanced bias, where legs remained excessively wide from the start of both standing and descending phases, alongside a trunk that stayed overly erect during ascending movements; consistent technique was maintained without notable issues throughout."},"done_reason":"stop","done":true,"total_duration":1168410900,"load_duration":14632500,"prompt_eval_count":475,"prompt_eval_duration":8664400,"eval_count":52,"eval_duration":1143542000}
+
+--------------------------------------------------
+
+--- Prompt #40 ---
+Response Time: 3.0167 seconds
+Tokens per Second: 14.25
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:04:18.5649503Z","message":{"role":"assistant","content":"Normal squat with balanced bias, but the left arm positioning issue remained consistent throughout descending to ascending phases. The main concern is maintaining proper upper body alignment during movement progression. "},"done_reason":"stop","done":true,"total_duration":960560700,"load_duration":15009700,"prompt_eval_count":456,"prompt_eval_duration":8180600,"eval_count":43,"eval_duration":935834800}
+
+--------------------------------------------------
+
+--- Prompt #41 ---
+Response Time: 2.7600 seconds
+Tokens per Second: 10.14
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:04:21.3251467Z","message":{"role":"assistant","content":"Deep squat with neutral bias shows a maintained consistency in form, indicating no significant technique problems throughout different stages of execution."},"done_reason":"stop","done":true,"total_duration":699628000,"load_duration":14325400,"prompt_eval_count":456,"prompt_eval_duration":7650400,"eval_count":28,"eval_duration":675574600}
+
+--------------------------------------------------
+
+--- Prompt #42 ---
+Response Time: 3.1304 seconds
+Tokens per Second: 15.97
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:04:24.4556168Z","message":{"role":"assistant","content":"Normal squat with hips dominated bias, where the issue of legs appearing too narrow during initial phases was identified but successfully addressed as one progresses to deeper depth levels like bottom position; technique correction ensured consistent form throughout different stages."},"done_reason":"stop","done":true,"total_duration":1084614700,"load_duration":14869200,"prompt_eval_count":464,"prompt_eval_duration":8158800,"eval_count":50,"eval_duration":1060048500}
+
+--------------------------------------------------
+
+--- Prompt #43 ---
+Response Time: 3.3459 seconds
+Tokens per Second: 18.23
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:04:27.8016047Z","message":{"role":"assistant","content":"Deep squat with balanced bias, where the trunk initially leaned excessively forwards but correction through focus on proper form ensured technique remained consistent throughout phases. The main issue addressed involved maintaining a neutral spine to prevent forward tilt during execution of deep squats. "},"done_reason":"stop","done":true,"total_duration":1278462400,"load_duration":14260900,"prompt_eval_count":455,"prompt_eval_duration":7721900,"eval_count":61,"eval_duration":1254401400}
+
+--------------------------------------------------
+
+--- Prompt #44 ---
+Response Time: 3.2369 seconds
+Tokens per Second: 16.99
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:04:31.038627Z","message":{"role":"assistant","content":"Normal squat with knees dominated bias; arms initially extending prematurely during the standing phase but corrected themselves as they returned to a more consistent form throughout ascending movements. The issue of arm extension timing has been addressed progressively for improved technique consistency."},"done_reason":"stop","done":true,"total_duration":1176898300,"load_duration":14859900,"prompt_eval_count":467,"prompt_eval_duration":7649700,"eval_count":55,"eval_duration":1152855300}
+
+--------------------------------------------------
+
+--- Prompt #45 ---
+Response Time: 3.1236 seconds
+Tokens per Second: 15.69
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:04:34.162391Z","message":{"role":"assistant","content":"Deep squat with balanced bias, where the issue of legs being excessively wide during both descending and ascending phases was consistently observed. This width could potentially affect stability and form throughout the movement's range. "},"done_reason":"stop","done":true,"total_duration":1063608800,"load_duration":14811600,"prompt_eval_count":456,"prompt_eval_duration":6856600,"eval_count":49,"eval_duration":1040374400}
+
+--------------------------------------------------
+
+--- Prompt #46 ---
+Response Time: 2.9573 seconds
+Tokens per Second: 13.86
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:04:37.1198875Z","message":{"role":"assistant","content":"Normal squat with hips dominated bias shows a consistently maintained technique without any deviations from proper form or balance throughout all observed phases, indicating strong foundational strength in hip engagement."},"done_reason":"stop","done":true,"total_duration":923756100,"load_duration":14345300,"prompt_eval_count":460,"prompt_eval_duration":7649300,"eval_count":41,"eval_duration":900229700}
+
+--------------------------------------------------
+
+--- Prompt #47 ---
+Response Time: 2.9338 seconds
+Tokens per Second: 13.29
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:04:40.0539186Z","message":{"role":"assistant","content":"Deep squat with neutral bias, where the trunk remained excessively upright throughout both bottom positioning and ascension phases without any noted improvement or correction over time. "},"done_reason":"stop","done":true,"total_duration":890763100,"load_duration":15044000,"prompt_eval_count":456,"prompt_eval_duration":8176200,"eval_count":39,"eval_duration":866008700}
+
+--------------------------------------------------
+
+--- Prompt #48 ---
+Response Time: 3.2352 seconds
+Tokens per Second: 17.00
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:04:43.2891987Z","message":{"role":"assistant","content":"Normal squat with balanced bias, where the issue of arms remaining elevated during initial descent was identified but successfully addressed to maintain proper form throughout all phases. Consistent technique across standing, descending, and bottom positions indicates effective correction without further complications. "},"done_reason":"stop","done":true,"total_duration":1170866400,"load_duration":13970900,"prompt_eval_count":461,"prompt_eval_duration":6642700,"eval_count":55,"eval_duration":1148157700}
+
+--------------------------------------------------
+
+--- Prompt #49 ---
+Response Time: 3.9863 seconds
+Tokens per Second: 24.08
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:04:47.2755781Z","message":{"role":"assistant","content":"Deep squat with knees dominated bias, where legs were excessively narrow from the start to end of movement causing potential imbalance or strain on lower limbs; trunk positioning was also consistently too forward throughout phases which could lead to back stress and inefficient force transfer. Focus should be maintained on widening stance width for leg alignment stability, as well as correcting upper body posture during the squat descent phase."},"done_reason":"stop","done":true,"total_duration":1954478800,"load_duration":13749300,"prompt_eval_count":477,"prompt_eval_duration":6649900,"eval_count":96,"eval_duration":1932012700}
+
+--------------------------------------------------
+
+--- Prompt #50 ---
+Response Time: 3.1755 seconds
+Tokens per Second: 16.38
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:04:50.4512584Z","message":{"role":"assistant","content":"Normal squat with balanced bias, where the issue of right arm extension during descent has been identified but successfully addressed through corrective measures at the bottom phase to maintain balance. The individual demonstrated a consistent technique throughout other phases without further issues reported. "},"done_reason":"stop","done":true,"total_duration":1114011600,"load_duration":14880600,"prompt_eval_count":455,"prompt_eval_duration":7660300,"eval_count":52,"eval_duration":1089940200}
+
+--------------------------------------------------
+
+--- Prompt #51 ---
+Response Time: 2.7798 seconds
+Tokens per Second: 10.43
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:04:53.2312552Z","message":{"role":"assistant","content":"Deep squat with hips dominated bias shows a maintained technique without biases throughout different stages, indicating stable form and execution."},"done_reason":"stop","done":true,"total_duration":719966300,"load_duration":15017300,"prompt_eval_count":460,"prompt_eval_duration":8149600,"eval_count":29,"eval_duration":695264400}
+
+--------------------------------------------------
+
+--- Prompt #52 ---
+Response Time: 3.5904 seconds
+Tokens per Second: 20.89
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:04:56.821736Z","message":{"role":"assistant","content":"Normal squat with balanced bias has a recurring issue of legs being positioned wider than optimal during the descent phase but correcting itself momentarily before resurfacing as problematic again towards ascension. This inconsistency suggests an intermittent struggle to maintain proper form throughout repetitions, potentially affecting stability and squat depth consistency."},"done_reason":"stop","done":true,"total_duration":1538229400,"load_duration":14439900,"prompt_eval_count":463,"prompt_eval_duration":8145100,"eval_count":75,"eval_duration":1514078800}
+
+--------------------------------------------------
+
+--- Prompt #53 ---
+Response Time: 3.2426 seconds
+Tokens per Second: 17.27
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:05:00.0645146Z","message":{"role":"assistant","content":"Deep squat with balanced bias, where the trunk initially leaned excessively forwards but was successfully adjusted during progression from standing to bottom position. The main issue resolved involved correcting forward torso tilt throughout various phases of depth increase. "},"done_reason":"stop","done":true,"total_duration":1191343800,"load_duration":14315000,"prompt_eval_count":461,"prompt_eval_duration":8129800,"eval_count":56,"eval_duration":1167322600}
+
+--------------------------------------------------
+
+--- Prompt #54 ---
+Response Time: 3.8110 seconds
+Tokens per Second: 22.83
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:05:03.8757848Z","message":{"role":"assistant","content":"Normal squat with knees dominated bias, where arms were consistently retracted during the descent phase but remained straightened throughout ascent indicating a potential imbalance or lack of coordination between upper body positioning and lower limb movement. This could suggest an overemphasis on hip hinge mechanics at the expense of maintaining proper arm alignment, potentially affecting overall squat form stability. "},"done_reason":"stop","done":true,"total_duration":1739381700,"load_duration":14362300,"prompt_eval_count":461,"prompt_eval_duration":7681000,"eval_count":87,"eval_duration":1715753000}
+
+--------------------------------------------------
+
+--- Prompt #55 ---
+Response Time: 2.9632 seconds
+Tokens per Second: 13.50
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:05:06.839152Z","message":{"role":"assistant","content":"Deep squat with neutral bias, where the initial issue of legs being excessively narrow at the bottom has been addressed through corrective measures during training phases to ensure proper form consistency."},"done_reason":"stop","done":true,"total_duration":905488700,"load_duration":13970500,"prompt_eval_count":454,"prompt_eval_duration":8124100,"eval_count":40,"eval_duration":881814300}
+
+--------------------------------------------------
+
+--- Prompt #56 ---
+Response Time: 3.4661 seconds
+Tokens per Second: 19.91
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:05:10.3048589Z","message":{"role":"assistant","content":"Normal squat with hips dominated bias, where the trunk remained excessively upright from standing to ascending phases, indicating a potential imbalance favoring upper body over lower back engagement during descent. This could lead to inefficient force transfer and increased risk of injury if not addressed consistently throughout training sessions."},"done_reason":"stop","done":true,"total_duration":1416593000,"load_duration":14891700,"prompt_eval_count":460,"prompt_eval_duration":8680300,"eval_count":69,"eval_duration":1391482200}
+
+--------------------------------------------------
+
+--- Prompt #57 ---
+Response Time: 2.8069 seconds
+Tokens per Second: 11.04
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:05:13.1124848Z","message":{"role":"assistant","content":"Deep squat with balanced bias shows a maintained consistency in form, indicating no deviations from proper technique throughout different stages of execution."},"done_reason":"stop","done":true,"total_duration":747128700,"load_duration":14383300,"prompt_eval_count":457,"prompt_eval_duration":6633800,"eval_count":31,"eval_duration":724542800}
+
+--------------------------------------------------
+
+--- Prompt #58 ---
+Response Time: 3.0026 seconds
+Tokens per Second: 13.99
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:05:16.115182Z","message":{"role":"assistant","content":"Normal squat with balanced bias, where the issue of legs initially positioned wider than optimal was identified during both standing phase and descending motion but successfully addressed to maintain technique consistency throughout execution."},"done_reason":"stop","done":true,"total_duration":944783800,"load_duration":14336100,"prompt_eval_count":461,"prompt_eval_duration":7644900,"eval_count":42,"eval_duration":920731600}
+
+--------------------------------------------------
+
+--- Prompt #59 ---
+Response Time: 3.4413 seconds
+Tokens per Second: 19.47
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:05:19.5566634Z","message":{"role":"assistant","content":"Deep squat with knees dominated bias; arms consistently being elevated during the descent phase indicates a potential issue of upper body positioning affecting form stability throughout different phases. The recurring nature suggests it may require attention to ensure proper alignment and technique continuity from Descending through Ascending."},"done_reason":"stop","done":true,"total_duration":1403993600,"load_duration":14300600,"prompt_eval_count":474,"prompt_eval_duration":6602500,"eval_count":67,"eval_duration":1381015600}
+
+--------------------------------------------------
+
+--- Prompt #60 ---
+Response Time: 3.3718 seconds
+Tokens per Second: 18.98
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:05:22.9286208Z","message":{"role":"assistant","content":"Normal squat with hips dominated bias, where the trunk positioned excessively forwards from early onset during both bottom phase and ascension, indicating a consistent issue throughout execution phases. This persistent anterior tilt may compromise form stability and depth achievement in subsequent repetitions without intervention "},"done_reason":"stop","done":true,"total_duration":1327285800,"load_duration":14417600,"prompt_eval_count":458,"prompt_eval_duration":7669300,"eval_count":64,"eval_duration":1303657500}
+
+--------------------------------------------------
+
+--- Prompt #61 ---
+Response Time: 3.4585 seconds
+Tokens per Second: 19.66
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:05:26.387345Z","message":{"role":"assistant","content":"Deep squat with balanced bias, where legs remained excessively narrow throughout the exercise phases without correction from arm position adjustments during descending phase. Consistent technique maintained despite minor issues of leg width consistency being observed across Standing to Ascending stages and corrected in Descending through proper arm extension alignment. "},"done_reason":"stop","done":true,"total_duration":1414117000,"load_duration":14321600,"prompt_eval_count":472,"prompt_eval_duration":7620000,"eval_count":68,"eval_duration":1390094700}
+
+--------------------------------------------------
+
+--- Prompt #62 ---
+Response Time: 2.8385 seconds
+Tokens per Second: 11.63
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:05:29.2260562Z","message":{"role":"assistant","content":"Normal squat with neutral bias shows a consistently maintained technique throughout all observed phases, indicating stable form without any deviations or biases affecting performance."},"done_reason":"stop","done":true,"total_duration":785084200,"load_duration":14315800,"prompt_eval_count":456,"prompt_eval_duration":7638600,"eval_count":33,"eval_duration":761059400}
+
+--------------------------------------------------
+
+--- Prompt #63 ---
+Response Time: 3.4059 seconds
+Tokens per Second: 19.08
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:05:32.6321894Z","message":{"role":"assistant","content":"Deep squat with balanced bias, where the initial trunk position correction from standing to descending phase indicates a focus on maintaining proper posture throughout depth progression. The issue of an initially upright torso suggests attention towards spinal alignment during deepening phases for consistent form and safety. "},"done_reason":"stop","done":true,"total_duration":1347284600,"load_duration":14925500,"prompt_eval_count":457,"prompt_eval_duration":7658500,"eval_count":65,"eval_duration":1323147200}
+
+--------------------------------------------------
+
+--- Prompt #64 ---
+Response Time: 2.8974 seconds
+Tokens per Second: 12.42
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:05:35.5297167Z","message":{"role":"assistant","content":"Normal squat with knees dominated bias, where the issue of left arm extension was consistently observed during both descending and ascending phases without improvement over time."},"done_reason":"stop","done":true,"total_duration":837827000,"load_duration":14405500,"prompt_eval_count":461,"prompt_eval_duration":7641600,"eval_count":36,"eval_duration":813709600}
+
+--------------------------------------------------
+
+--- Prompt #65 ---
+Response Time: 3.3726 seconds
+Tokens per Second: 18.68
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:05:38.9025201Z","message":{"role":"assistant","content":"Deep squat with hips dominated bias, where the issue of legs being excessively wide from start to finish was consistently observed across phases without improvement or correction noted. This persistent width may indicate a lack of mobility control during descent which could affect stability and depth achievement in subsequent sessions."},"done_reason":"stop","done":true,"total_duration":1314786000,"load_duration":14331200,"prompt_eval_count":458,"prompt_eval_duration":7623800,"eval_count":63,"eval_duration":1291260000}
+
+--------------------------------------------------
+
+--- Prompt #66 ---
+Response Time: 3.6353 seconds
+Tokens per Second: 21.46
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:05:42.5379284Z","message":{"role":"assistant","content":"Normal squat with balanced bias exhibits a trunk position that initially moves excessively forwards during the descent phase but shows temporary correction before resurfacing as an issue upon ascension. The recurring forward tilt suggests potential instability or lack of core engagement throughout different phases, indicating room for technique refinement to ensure consistent form and safety. "},"done_reason":"stop","done":true,"total_duration":1582916300,"load_duration":13858800,"prompt_eval_count":469,"prompt_eval_duration":6642800,"eval_count":78,"eval_duration":1560375400}
+
+--------------------------------------------------
+
+--- Prompt #67 ---
+Response Time: 2.7863 seconds
+Tokens per Second: 11.13
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:05:45.3245972Z","message":{"role":"assistant","content":"Deep squat with balanced bias shows a maintained consistency in form, indicating no deviations from proper technique throughout various stages of execution."},"done_reason":"stop","done":true,"total_duration":748758700,"load_duration":14319500,"prompt_eval_count":457,"prompt_eval_duration":7155300,"eval_count":31,"eval_duration":725197800}
+
+--------------------------------------------------
+
+--- Prompt #68 ---
+Response Time: 3.6809 seconds
+Tokens per Second: 21.73
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:05:49.0051291Z","message":{"role":"assistant","content":"Normal squat with hips dominated bias, where arms were consistently retracted during the descent phase across all stages of depth progression from standing to ascending positions. This retraction may indicate a reliance on hip flexion over proper upper body alignment and could potentially limit full range of motion or increase stress on lower back muscles if not addressed in training focuses. "},"done_reason":"stop","done":true,"total_duration":1612291600,"load_duration":14856300,"prompt_eval_count":458,"prompt_eval_duration":8680300,"eval_count":80,"eval_duration":1587184400}
+
+--------------------------------------------------
+
+--- Prompt #69 ---
+Response Time: 3.2414 seconds
+Tokens per Second: 17.58
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:05:52.2471343Z","message":{"role":"assistant","content":"Deep squat with knees dominated bias, where initial leg width issues were present but later addressed for improved form during the descending phase of execution. Consistent technique achieved through corrective measures ensured a more balanced biomechanical alignment in subsequent attempts."},"done_reason":"stop","done":true,"total_duration":1202317400,"load_duration":15349800,"prompt_eval_count":460,"prompt_eval_duration":6646100,"eval_count":57,"eval_duration":1178272400}
+
+--------------------------------------------------
+
+--- Prompt #70 ---
+Response Time: 3.5013 seconds
+Tokens per Second: 19.99
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:05:55.7485615Z","message":{"role":"assistant","content":"Normal squat with neutral bias, where the trunk remained excessively upright during initial phases but was eventually rectified as part of corrective progression from standing to bottom position. The main issue revolved around maintaining proper posture throughout different stages; however, consistent improvement led to a corrected technique by ascending phase. "},"done_reason":"stop","done":true,"total_duration":1441586200,"load_duration":14351100,"prompt_eval_count":462,"prompt_eval_duration":8166300,"eval_count":70,"eval_duration":1417513200}
+
+--------------------------------------------------
+
+--- Prompt #71 ---
+Response Time: 3.2560 seconds
+Tokens per Second: 17.51
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:05:59.0048199Z","message":{"role":"assistant","content":"Deep squat with balanced bias shows a recurring issue of arms being elevated prematurely during the descent phase across different phases; this suggests inconsistency that may affect stability but is not present throughout all attempts as evidenced by temporary absence. "},"done_reason":"stop","done":true,"total_duration":1208638200,"load_duration":14341300,"prompt_eval_count":462,"prompt_eval_duration":7619800,"eval_count":57,"eval_duration":1184630200}
+
+--------------------------------------------------
+
+--- Prompt #72 ---
+Response Time: 2.8076 seconds
+Tokens per Second: 11.04
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:06:01.8124356Z","message":{"role":"assistant","content":"Normal squat with balanced bias shows a maintained consistency in technique, without any deviations from proper form or balance throughout all observed phases "},"done_reason":"stop","done":true,"total_duration":749669300,"load_duration":14314600,"prompt_eval_count":457,"prompt_eval_duration":6636300,"eval_count":31,"eval_duration":727153500}
+
+--------------------------------------------------
+
+--- Prompt #73 ---
+Response Time: 3.0498 seconds
+Tokens per Second: 14.76
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:06:04.862416Z","message":{"role":"assistant","content":"Deep squat with hips dominated bias, where the issue of legs being excessively wide from standing to ascending phase was consistently observed. This width may compromise form stability during deeper ranges. "},"done_reason":"stop","done":true,"total_duration":998496800,"load_duration":14872700,"prompt_eval_count":458,"prompt_eval_duration":8646500,"eval_count":45,"eval_duration":973444800}
+
+--------------------------------------------------
+
+--- Prompt #74 ---
+Response Time: 3.5423 seconds
+Tokens per Second: 20.61
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:06:08.4048158Z","message":{"role":"assistant","content":"Normal squat with knees dominated bias, where the trunk positioned excessively forwards during both descending and ascending phases indicates a potential imbalance affecting form consistency throughout the movement range. This forward lean may compromise lower back engagement and increase stress on hip flexors over time if not addressed within training routines."},"done_reason":"stop","done":true,"total_duration":1491630800,"load_duration":14874200,"prompt_eval_count":461,"prompt_eval_duration":6633700,"eval_count":73,"eval_duration":1468582600}
+
+--------------------------------------------------
+
+--- Prompt #75 ---
+Response Time: 3.3224 seconds
+Tokens per Second: 18.06
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:06:11.7275629Z","message":{"role":"assistant","content":"Deep squat with balanced bias, where the issue of right arm being initially elevated above parallel during descent has been addressed through corrective adjustments to maintain proper form throughout the movement phase. Consistent technique is maintained as no further issues were reported post-correction. "},"done_reason":"stop","done":true,"total_duration":1266129900,"load_duration":15928000,"prompt_eval_count":455,"prompt_eval_duration":9154700,"eval_count":60,"eval_duration":1239522300}
+
+--------------------------------------------------
+
+--- Prompt #76 ---
+Response Time: 3.3887 seconds
+Tokens per Second: 18.30
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:06:15.1163778Z","message":{"role":"assistant","content":"Normal squat with hips dominated bias, where legs were consistently narrower than ideal throughout the descent phase leading to potential imbalance or reduced range of motion issues; arms remained improperly positioned during ascent from bottom outwards affecting upper body stability and form. "},"done_reason":"stop","done":true,"total_duration":1334394700,"load_duration":14338400,"prompt_eval_count":476,"prompt_eval_duration":7639200,"eval_count":62,"eval_duration":1310884300}
+
+--------------------------------------------------
+
+--- Prompt #77 ---
+Response Time: 2.7479 seconds
+Tokens per Second: 10.19
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:06:17.864548Z","message":{"role":"assistant","content":"Deep squat with neutral bias shows a maintained consistency in form, indicating no significant technique problems throughout different stages of execution."},"done_reason":"stop","done":true,"total_duration":697768500,"load_duration":14365700,"prompt_eval_count":456,"prompt_eval_duration":8670700,"eval_count":28,"eval_duration":673198800}
+
+--------------------------------------------------
+
+--- Prompt #78 ---
+Response Time: 3.4658 seconds
+Tokens per Second: 19.33
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:06:21.3305319Z","message":{"role":"assistant","content":"Normal squat with balanced bias, where the trunk remained excessively upright during both standing and descending phases but was ultimately rectified at the bottom position to maintain balance. The primary issue revolved around correcting an initial postural imbalance that could affect overall form stability throughout the movement sequence. "},"done_reason":"stop","done":true,"total_duration":1393226800,"load_duration":15428000,"prompt_eval_count":463,"prompt_eval_duration":9186200,"eval_count":67,"eval_duration":1367075700}
+
+--------------------------------------------------
+
+--- Prompt #79 ---
+Response Time: 3.2956 seconds
+Tokens per Second: 17.90
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:06:24.6263446Z","message":{"role":"assistant","content":"Deep squat with knees dominated bias; arms extending inconsistently throughout the descent phase posed a technique issue that fluctuated between absence to presence during repetitions. This suggests an area for focus on maintaining consistent arm positioning across all phases of execution."},"done_reason":"stop","done":true,"total_duration":1249929500,"load_duration":14332500,"prompt_eval_count":468,"prompt_eval_duration":8152300,"eval_count":59,"eval_duration":1225884800}
+
+--------------------------------------------------
+
+--- Prompt #80 ---
+Response Time: 3.2612 seconds
+Tokens per Second: 18.09
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:06:27.8877405Z","message":{"role":"assistant","content":"Normal squat with balanced bias, but issues of legs being excessively wide at the bottom were noted to persist throughout various phases including descending into depth (Bottom) and ascending back up (Ascending). This consistent width may affect stability and form during repetitions. "},"done_reason":"stop","done":true,"total_duration":1238262400,"load_duration":13964000,"prompt_eval_count":455,"prompt_eval_duration":8685300,"eval_count":59,"eval_duration":1214053200}
+
+--------------------------------------------------
+
+--- Prompt #81 ---
+Response Time: 3.3087 seconds
+Tokens per Second: 17.53
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:06:31.1965211Z","message":{"role":"assistant","content":"Deep squat with hips dominated bias, where the trunk initially leaned excessively forwards but improved through corrective measures during descending phase. The main issue revolved around maintaining proper spinal alignment to prevent forward tilt in deep squats. "},"done_reason":"stop","done":true,"total_duration":1233751100,"load_duration":15348100,"prompt_eval_count":458,"prompt_eval_duration":7624300,"eval_count":58,"eval_duration":1209247200}
+
+--------------------------------------------------
+
+--- Prompt #82 ---
+Response Time: 2.7754 seconds
+Tokens per Second: 10.45
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:06:33.9720275Z","message":{"role":"assistant","content":"Normal squat with balanced bias shows a maintained technique throughout all stages, indicating no deviations from proper form or balance during execution."},"done_reason":"stop","done":true,"total_duration":715195900,"load_duration":14829500,"prompt_eval_count":457,"prompt_eval_duration":7151100,"eval_count":29,"eval_duration":691633000}
+
+--------------------------------------------------
+
+--- Prompt #83 ---
+Response Time: 2.8735 seconds
+Tokens per Second: 12.53
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:06:36.8458012Z","message":{"role":"assistant","content":"Deep squat with neutral bias, where the main issue was a persistent left arm extension during both standing and ascending phases without any noted improvement or correction over time."},"done_reason":"stop","done":true,"total_duration":833670200,"load_duration":14924500,"prompt_eval_count":454,"prompt_eval_duration":7656200,"eval_count":36,"eval_duration":809555100}
+
+--------------------------------------------------
+
+--- Prompt #84 ---
+Response Time: 2.9790 seconds
+Tokens per Second: 14.10
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:06:39.8248618Z","message":{"role":"assistant","content":"Normal squat with knees dominated bias, where the issue of legs appearing too narrow during descent was identified but successfully addressed as it progressed from bottom to ascending phase without further complications "},"done_reason":"stop","done":true,"total_duration":950208500,"load_duration":14975900,"prompt_eval_count":467,"prompt_eval_duration":12763000,"eval_count":42,"eval_duration":920932800}
+
+--------------------------------------------------
+
+--- Prompt #85 ---
+Response Time: 2.9598 seconds
+Tokens per Second: 13.51
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:06:42.7848639Z","message":{"role":"assistant","content":"Deep squat with balanced bias shows a trunk initially remaining overly vertical during the ascent phase but corrects itself through progression to maintain proper form consistently across phases."},"done_reason":"stop","done":true,"total_duration":918777400,"load_duration":14451300,"prompt_eval_count":470,"prompt_eval_duration":6633400,"eval_count":40,"eval_duration":895643800}
+
+--------------------------------------------------
+
+--- Prompt #86 ---
+Response Time: 3.5867 seconds
+Tokens per Second: 20.91
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:06:46.3717335Z","message":{"role":"assistant","content":"Normal squat with hips dominated bias, where arms remained excessively elevated during both the descending phase of descent into full depth (37.2 cm) and throughout ascending back to standing position; this indicates a potential lack of proper upper body engagement or mobility issues affecting arm alignment in relation to squat mechanics.\n"},"done_reason":"stop","done":true,"total_duration":1528179100,"load_duration":14323600,"prompt_eval_count":459,"prompt_eval_duration":8674800,"eval_count":75,"eval_duration":1503100700}
+
+--------------------------------------------------
+
+--- Prompt #87 ---
+Response Time: 2.7529 seconds
+Tokens per Second: 10.90
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:06:49.1248328Z","message":{"role":"assistant","content":"Deep squat with balanced bias shows a maintained consistency in form, indicating no deviations from proper technique throughout all observed stages."},"done_reason":"stop","done":true,"total_duration":731671600,"load_duration":14515400,"prompt_eval_count":457,"prompt_eval_duration":8169700,"eval_count":30,"eval_duration":707448200}
+
+--------------------------------------------------
+
+--- Prompt #88 ---
+Response Time: 2.7635 seconds
+Tokens per Second: 10.49
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:06:51.888502Z","message":{"role":"assistant","content":"Normal squat with balanced bias, where the initial leg width issue during descent has been addressed for improved form consistency across phases."},"done_reason":"stop","done":true,"total_duration":713853600,"load_duration":14955400,"prompt_eval_count":455,"prompt_eval_duration":8679200,"eval_count":29,"eval_duration":688661600}
+
+--------------------------------------------------
+
+--- Prompt #89 ---
+Response Time: 3.3201 seconds
+Tokens per Second: 18.07
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:06:55.2088067Z","message":{"role":"assistant","content":"Deep squat with knees dominated bias, where the trunk positioned excessively forwards from early onset to later phases of movement consistently posing a challenge. The persistent issue across all stages indicates potential imbalances or lack of core engagement during execution. "},"done_reason":"stop","done":true,"total_duration":1258320100,"load_duration":14880600,"prompt_eval_count":460,"prompt_eval_duration":7655900,"eval_count":60,"eval_duration":1234212600}
+
+--------------------------------------------------
+
+--- Prompt #90 ---
+Response Time: 3.0836 seconds
+Tokens per Second: 15.24
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:06:58.2925561Z","message":{"role":"assistant","content":"Normal squat with hips dominated bias, where the right arm remained bent during descent causing asymmetry, and trunk positioning was excessively vertical from ascension to bottom phase indicating potential core stability issues. "},"done_reason":"stop","done":true,"total_duration":1062078000,"load_duration":14326000,"prompt_eval_count":478,"prompt_eval_duration":7669600,"eval_count":47,"eval_duration":1038451900}
+
+--------------------------------------------------
+
+--- Prompt #91 ---
+Response Time: 2.8947 seconds
+Tokens per Second: 12.09
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:07:01.1874569Z","message":{"role":"assistant","content":"Deep squat with neutral bias, where the issue of legs being excessively narrow was consistently observed from both standing to ascending phases without improvement over time."},"done_reason":"stop","done":true,"total_duration":823397800,"load_duration":14982900,"prompt_eval_count":454,"prompt_eval_duration":8172100,"eval_count":35,"eval_duration":798703200}
+
+--------------------------------------------------
+
+--- Prompt #92 ---
+Response Time: 2.7737 seconds
+Tokens per Second: 10.46
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:07:03.9612574Z","message":{"role":"assistant","content":"Normal squat with balanced bias shows a maintained technique throughout all stages, indicating no deviations from proper form or balance during execution."},"done_reason":"stop","done":true,"total_duration":714475600,"load_duration":13826200,"prompt_eval_count":457,"prompt_eval_duration":6150800,"eval_count":29,"eval_duration":692416800}
+
+--------------------------------------------------
+
+--- Prompt #93 ---
+Response Time: 3.2962 seconds
+Tokens per Second: 17.90
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:07:07.2575769Z","message":{"role":"assistant","content":"Deep squat with hips dominated bias, where arms were initially improperly positioned during the descent phase but adjustments led to correct arm extension for improved form. The main issue addressed involved ensuring proper upper body alignment throughout the movement's lowering phase. "},"done_reason":"stop","done":true,"total_duration":1239996100,"load_duration":14362100,"prompt_eval_count":458,"prompt_eval_duration":8163900,"eval_count":59,"eval_duration":1215861600}
+
+--------------------------------------------------
+
+--- Prompt #94 ---
+Response Time: 3.6570 seconds
+Tokens per Second: 21.88
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:07:10.9148224Z","message":{"role":"assistant","content":"Normal squat with knees dominated bias; the trunk positioned excessively forward during both descending and ascending phases of the movement cycle, indicating a potential imbalance or lack of core engagement to maintain proper posture throughout the exercise. This recurring issue suggests that attention should be focused on correcting this anterior tilt for improved squat form consistency."},"done_reason":"stop","done":true,"total_duration":1630739300,"load_duration":14845600,"prompt_eval_count":474,"prompt_eval_duration":8064200,"eval_count":80,"eval_duration":1606295800}
+
+--------------------------------------------------
+
+--- Prompt #95 ---
+Response Time: 3.0959 seconds
+Tokens per Second: 15.83
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:07:14.0109317Z","message":{"role":"assistant","content":"Deep squat with balanced bias, where the issue of legs being excessively wide during both descending and ascending phases was consistently observed. This width could potentially affect stability and form throughout the movement's range. "},"done_reason":"stop","done":true,"total_duration":1064946000,"load_duration":15411200,"prompt_eval_count":456,"prompt_eval_duration":7654000,"eval_count":49,"eval_duration":1040342800}
+
+--------------------------------------------------
+
+--- Prompt #96 ---
+Response Time: 2.9694 seconds
+Tokens per Second: 13.81
+Raw LLM Reply (JSON):
+{"model":"testphicoach","created_at":"2025-10-17T12:07:16.9805438Z","message":{"role":"assistant","content":"Normal squat with balanced bias, where the main issue identified is an initial trunk posture that leaned excessively forward but has been successfully addressed through corrective movement during descent. "},"done_reason":"stop","done":true,"total_duration":923200400,"load_duration":14401700,"prompt_eval_count":457,"prompt_eval_duration":8159500,"eval_count":41,"eval_duration":898565800}
+
+--------------------------------------------------
+
+--- Overall Averages ---
+Total Prompts Processed: 96
+Successful Responses: 96
+Average Response Time: 3.2233 seconds
+Average Tokens per Second: 15.79
+------------------------
